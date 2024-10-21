@@ -1,0 +1,1663 @@
+hours,remote,education,seniority,country,job_published_at,y_pred,comp_dol
+Full-Time,true,Unclear,Unclear Seniority,Austria,2023-02-13,-0.5865661635511215,-0.9799715011799738
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-23,-0.8468437669078466,-0.8631727387600958
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-25,-0.8468437669078466,-0.9623055294973154
+Full-Time,Unclear,Bachelors,Manager,United States,2023-04-19,0.4020596103647615,-0.6344047601357427
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-05-17,-0.03814437915526171,-0.43502711209854605
+Unclear,true,Unclear,Unclear Seniority,,2023-04-25,0.4054926840700989,0.021730398556230022
+Full-Time,Unclear,Bachelors,IC,United States,2023-01-24,-0.05993670109270639,0.7874517736753408
+Contract,Unclear,Unclear,Unclear Seniority,United States,2023-05-12,-0.13818938905783557,-0.46664157581121707
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-04-21,-0.07582341830059793,1.494408374285321
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-05-12,0.06996487757964275,-0.4996858393902903
+Unclear,Unclear,Masters,Unclear Seniority,India,2023-01-23,-0.03356898117835378,0.021730398556230022
+Unclear,true,Unclear,Unclear Seniority,United States,2023-03-07,0.9373660026560691,-0.3314460551102973
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-05-16,0.853143746773787,1.2370443983329236
+Full-Time,Unclear,Unclear,Manager,United States,2023-05-19,0.12233765098215377,-0.4675947757221519
+Full-Time,Unclear,Unclear,Unclear Seniority,Uganda,2023-06-02,-0.45812778088287404,-0.1339748068949703
+Unclear,Unclear,Bachelors,Unclear Seniority,,2023-05-30,0.3082159772667634,0.17740383067706586
+Full-Time,false,Unclear,Unclear Seniority,Brazil,2023-04-19,-0.3864664577436274,-0.09425814393935344
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-03-03,0.24397590878850628,0.021730398556230022
+Full-Time,Unclear,Unclear,Unclear Seniority,Bulgaria,2023-06-02,-0.45812778088287404,-0.1339748068949703
+Hourly,Unclear,Bachelors,Unclear Seniority,United States,2023-03-02,-0.5319594247617437,-0.34844478685530134
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-03-14,0.4376022631939808,3.9282454802055216
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-04-25,-0.07582341830059793,-0.9521380637806776
+Full-Time,Unclear,Bachelors,Chief,United States,2023-05-30,1.5375908182330822,2.0504416556639566
+Full-Time,true,Unclear,Staff IC,,2023-05-08,0.6382031013456823,0.6603584522173668
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-03-08,0.24397590878850628,-0.9675481290074569
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-05-12,0.4376022631939808,0.7874517736753408
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-05-15,0.4401317614849217,1.7883116801568855
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-12,-0.07582341830059793,-1.5200863440459986
+Full-Time,true,Bachelors,Unclear Seniority,United States,2023-05-31,0.09348577226159747,0.021730398556230022
+Full-Time,Unclear,Unclear,Senior IC,Canada,2023-05-31,-0.4576885754143632,0.021730398556230022
+Full-Time,false,Bachelors,IC,United States,2023-04-11,-0.2048991468957131,0.6603584522173668
+Unclear,Unclear,Unclear,Senior Manager,United States,2023-05-04,0.5434741365330349,0.04872184270086724
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-24,-0.8468437669078466,-0.9127391341287057
+Full-Time,Unclear,Unclear,Manager,United States,2023-05-26,0.12233765098215377,-0.17369146985058714
+Full-Time,Unclear,Unclear,Junior IC,United States,2023-05-01,-0.498472432882485,-0.9521380637806776
+Unclear,Unclear,Unclear,Unclear Seniority,India,2023-02-11,0.054764280364189205,0.021730398556230022
+Full-Time,true,Bachelors,Unclear Seniority,Lebanon,2023-01-17,0.009011579784382271,0.021730398556230022
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-02-28,-0.07582341830059793,0.5103724462317754
+Unclear,true,Bachelors,IC,United States,2023-01-13,0.2952796786328985,-0.7290892846219332
+Intern,Unclear,Unclear,Intern,United States,2023-04-27,-0.579196344091002,-0.4996858393902903
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-22,0.24397590878850628,0.3632778133093527
+Unclear,true,Unclear,Staff IC,United States,2023-06-01,1.1366339819339806,2.2126127338443315
+Full-Time,Unclear,High School,Unclear Seniority,,2023-05-18,-0.8388852364734933,-0.8885914030516906
+Full-Time,true,Unclear,Staff IC,United States,2023-01-04,1.38257151477102,1.089298412138029
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-15,-0.07582341830059793,0.19608654893138802
+Unclear,Unclear,Unclear,Junior IC,,2023-05-19,-0.43293246683831554,-0.1681311370368008
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-17,-0.07582341830059793,-0.3643314520375481
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-10,0.24397590878850628,0.4458884722570358
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-15,-0.8468437669078466,-0.9953497930763887
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-17,0.24397590878850628,0.3751928121960378
+Full-Time,Unclear,Unclear,Junior IC,Canada,2023-04-04,-0.7093365764928363,-0.03627181602415283
+Full-Time,true,Bachelors,Staff IC,,2023-05-18,0.577195895624739,1.6294450283344182
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-05-31,0.06996487757964275,1.0178084188179186
+Full-Time,Unclear,High School,Manager,United States,2023-05-08,-0.7223608559725008,-0.7297247512292232
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-02,0.24397590878850628,1.176675070640386
+Full-Time,Unclear,Bachelors,Manager,United States,2023-05-02,0.4020596103647615,0.5412084633505163
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-06-02,0.4376022631939808,-0.491424773495522
+Unclear,Unclear,Unclear,Junior IC,United States,2023-01-22,-0.49345226866146924,-1.2952900317172071
+Unclear,Unclear,Unclear,Senior IC,United States,2023-03-14,0.6987648905759417,1.0972417447291523
+Unclear,Unclear,Bachelors,Junior IC,United States,2023-04-04,-0.6695256246641282,-0.9521380637806776
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-31,-0.9137027807585573,-0.983911394145171
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-03-07,-0.03814437915526171,0.8271684366309576
+Unclear,true,Unclear,Unclear Seniority,United States,2023-04-05,0.9373660026560691,1.0972417447291523
+Full-Time,true,Masters,Unclear Seniority,United States,2023-04-25,1.1070992535918718,0.5412084633505163
+Full-Time,Unclear,Bachelors,IC,,2023-03-21,-0.3003466502302892,-0.9680247289629242
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-08,-0.8468437669078466,-1.0824087182751008
+Unclear,false,Unclear,Unclear Seniority,United States,2023-05-31,0.46524313023837727,0.16588599841993695
+Full-Time,false,Unclear,Unclear Seniority,United States,2023-03-06,0.14906280658454432,1.414975048374087
+Unclear,Unclear,Bachelors,Senior IC,Australia,2023-03-17,0.2633240391424057,-0.014824818028119732
+Full-Time,Unclear,Doctorate,Senior IC,United States,2023-04-16,0.8622025212485231,1.494408374285321
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-04-25,0.24397590878850628,0.06460850788311398
+Unclear,Unclear,Bachelors,IC,United States,2023-05-04,-0.16758737617286013,-1.1268913807853917
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-03-02,0.4401317614849217,0.7000751151729837
+Unclear,true,Masters,Senior IC,,2023-05-27,0.9496174293777938,-0.33915108772368696
+Unclear,Unclear,Bachelors,Manager,United States,2023-05-15,0.3538840425957872,1.173577170929848
+Full-Time,true,Unclear,Senior IC,United States,2023-04-25,0.9183892236139644,0.5968117914883798
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-04-25,0.24397590878850628,0.15833983245836977
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-04-05,0.4376022631939808,0.4300018070747891
+Full-Time,Unclear,Unclear,Manager,United States,2023-03-27,0.12233765098215377,-1.0531772543397668
+Full-Time,Unclear,Unclear,Staff IC,India,2023-02-02,0.3568023486598429,0.021730398556230022
+Full-Time,true,Bachelors,Unclear Seniority,,2023-04-26,0.2464566751969823,0.2880067936758677
+Full-Time,Unclear,High School,Manager,United States,2023-04-22,-0.7223608559725008,-0.6649071572856564
+Full-Time,Unclear,Unclear,Manager,United States,2023-04-27,0.12233765098215377,-0.14072663959742518
+Contract,Unclear,Unclear,IC,United States,2023-05-15,-0.09406453361246009,0.46982967668668163
+Full-Time,Unclear,Unclear,IC,United States,2023-04-25,0.28533417927153853,0.12815516861210094
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-03-31,0.06996487757964275,0.021730398556230022
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-02-14,0.24397590878850628,-0.2531247957618209
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-15,0.24397590878850628,0.8271684366309576
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-03-31,-0.8468437669078466,-0.2930003253692602
+Full-Time,Unclear,Bachelors,Junior IC,United States,2023-05-26,-0.30723990754398345,-0.4119914475842883
+Full-Time,false,Unclear,IC,United States,2023-03-21,0.3982424474783127,-0.5469486683074744
+Contract,Unclear,Bachelors,Unclear Seniority,United States,2023-03-09,0.1953811240990202,0.7000751151729837
+Contract,Unclear,Unclear,Senior IC,United States,2023-05-13,-0.06073980641441018,0.021730398556230022
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-04-21,-0.07582341830059793,0.2814932609511465
+Full-Time,true,Unclear,Unclear Seniority,United States,2023-05-08,0.4191554814381107,1.6929916890634051
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-17,-0.9137027807585573,-0.8301284751810225
+Full-Time,Unclear,Bachelors,Manager,United States,2023-04-12,0.4020596103647615,-0.4040481149931649
+Unclear,false,Unclear,Unclear Seniority,Brazil,2023-04-27,-0.1508661344541553,-1.3436172672016018
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-10,0.24397590878850628,-0.5708580994067557
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-04-12,-0.07582341830059793,-0.09425814393935344
+Full-Time,true,Unclear,Unclear Seniority,United States,2023-05-03,0.4191554814381107,0.5968117914883798
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-05-16,0.853143746773787,0.36168914679112807
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-05-19,0.4401317614849217,0.62064178926175
+Full-Time,Unclear,Unclear,Senior IC,Canada,2023-04-05,-0.4576885754143632,-0.8301284751810225
+Full-Time,Unclear,Some High School,Junior IC,United States,2023-05-17,-0.6013098274822722,-0.983911394145171
+Full-Time,Unclear,Unclear,Staff IC,United States,2023-02-21,1.0323705659496922,2.288741633397658
+Unclear,Unclear,Unclear,Unclear Seniority,,2023-03-26,-0.4487213911302157,-0.9623055294973154
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-17,0.24397590878850628,-0.2412097968751358
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-03-09,-0.8468437669078466,-0.8250447423227036
+Full-Time,Unclear,High School,Manager,United States,2023-05-24,-0.7223608559725008,-0.896217002339169
+Contract,Unclear,Unclear,Staff IC,United Kingdom,2023-04-03,-0.37415320366762395,0.2234751597055814
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-31,-0.8468437669078466,-0.9953497930763887
+Full-Time,true,Bachelors,Senior IC,United States,2023-03-20,0.5487991349210541,0.5809251263061331
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-02-09,0.06996487757964275,1.2561083965516198
+Student,Unclear,Unclear,Unclear Seniority,United States,2023-04-07,0.023194749677325786,-1.047458054874158
+Full-Time,Unclear,Unclear,Senior IC,United Kingdom,2023-05-03,-0.6531176460503587,-0.7773847467759634
+Full-Time,false,Unclear,IC,United States,2023-04-25,0.3982424474783127,0.8589417669954511
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-22,-0.07582341830059793,1.494408374285321
+Full-Time,false,Some High School,Unclear Seniority,United States,2023-03-12,-0.346205403056372,-0.9283080660073074
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-03-28,-0.07582341830059793,-0.7297247512292232
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-18,-0.9137027807585573,-0.8390567810134453
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-30,-0.8468437669078466,-0.9292612659182422
+Full-Time,Unclear,High School,Manager,United States,2023-05-24,-0.7223608559725008,-0.6966804876501499
+Full-Time,Unclear,Unclear,IC,United States,2023-06-01,0.28533417927153853,-0.3643314520375481
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-12,-0.07582341830059793,0.32673848339018524
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-08,-0.07582341830059793,-0.7297247512292232
+Unclear,Unclear,High School,Unclear Seniority,United States,2023-04-21,-0.8472021702657349,-0.9292612659182422
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-26,-0.07582341830059793,0.001061847154127011
+Unclear,Unclear,Unclear,Unclear Seniority,Ghana,2023-05-22,-0.00746719179302945,0.22590581947846516
+Unclear,true,Unclear,Unclear Seniority,United States,2023-05-09,0.9373660026560691,-0.8885914030516906
+Full-Time,false,Unclear,Unclear Seniority,United States,2023-05-16,0.14906280658454432,-0.22929479798845076
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-11,-0.07582341830059793,-0.2531247957618209
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-22,-0.8468437669078466,-0.7921275720650883
+Full-Time,Unclear,Unclear,Senior IC,India,2023-05-09,-0.2836435453059732,0.021730398556230022
+Full-Time,Unclear,Bachelors,Manager,United States,2023-04-03,0.4020596103647615,0.5729817937150098
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-04-13,0.4401317614849217,1.494408374285321
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-02-28,0.4376022631939808,0.7993667725620258
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-03-13,0.06996487757964275,-0.7640399480228761
+Unclear,Unclear,Unclear,IC,United States,2023-06-01,0.3139426851349468,-0.20546480021508065
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-19,-0.8468437669078466,-0.8301284751810225
+Full-Time,false,Unclear,Senior IC,Belgium,2023-01-26,-0.23580841800889654,0.021730398556230022
+Unclear,Unclear,High School,Unclear Seniority,United States,2023-04-12,-0.8472021702657349,-0.7297247512292232
+Unclear,true,Bachelors,Unclear Seniority,United States,2023-01-25,0.324531421762154,0.2234751597055814
+Full-Time,true,Bachelors,Director,United States,2023-05-12,1.535851477013192,1.8955466701370511
+Full-Time,Unclear,Bachelors,IC,United States,2023-05-17,-0.05993670109270639,-0.6313704070859336
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-05-17,0.4401317614849217,0.342625148572432
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-02-13,-0.07582341830059793,-0.6979514208647296
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-05-30,-0.03814437915526171,-1.365191358519093
+Hourly,Unclear,Unclear,Unclear Seniority,United States,2023-04-24,-0.4526310132788235,-0.862537272152806
+Unclear,Unclear,Some High School,Unclear Seniority,United States,2023-05-30,-0.8567885088830446,-0.9623055294973154
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-05-18,0.853143746773787,0.7000751151729837
+Full-Time,Unclear,No Education Requirement,Manager,,2023-04-14,0.42294574595202006,-0.4119914475842883
+Full-Time,Unclear,Unclear,IC,United States,2023-05-02,0.28533417927153853,-0.6483850254961199
+Full-Time,true,Unclear,Unclear Seniority,Austria,2023-01-12,-0.5865661635511215,-0.7352850840430095
+Full-Time,true,Bachelors,Unclear Seniority,United States,2023-05-30,0.09348577226159747,-0.1339748068949703
+Full-Time,false,Unclear,IC,Romania,2023-03-29,-0.3563266047921833,-0.301420257915851
+Full-Time,Unclear,Unclear,Manager,,2023-04-07,0.7603182098023336,0.38234181152804886
+Part-Time,Unclear,Unclear,Unclear Seniority,Australia,2023-05-26,-0.06046781550224749,-0.6607766243382723
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-02-01,-0.07582341830059793,-0.9203647334161841
+Full-Time,true,Unclear,Manager,,2023-03-29,0.7189162646882856,0.62064178926175
+Full-Time,false,Unclear,Unclear Seniority,United States,2023-02-06,0.14906280658454432,0.6603584522173668
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-05-31,0.06996487757964275,-1.5081713451593135
+Full-Time,true,Unclear,Manager,,2023-05-15,0.7189162646882856,1.3355417224628534
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-16,0.24397590878850628,-0.5231981038600155
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-03-22,0.853143746773787,0.2711351552523216
+Full-Time,Unclear,Unclear,Director,India,2023-04-28,0.31520954615337243,0.021730398556230022
+Full-Time,true,Bachelors,IC,United States,2023-05-08,0.15066238276157196,0.7397917781286005
+Unclear,Unclear,Bachelors,Unclear Seniority,Austria,2023-01-20,-0.4506166087815457,-1.5161146777504368
+Unclear,Unclear,Unclear,Unclear Seniority,,2023-06-02,-0.4487213911302157,-0.7678527476666154
+Full-Time,Unclear,Unclear,Manager,Netherlands,2023-05-11,0.016278924904331686,0.38234181152804886
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-04-18,0.4376022631939808,-0.7309956844438029
+Full-Time,Unclear,Vocational,Unclear Seniority,United States,2023-05-30,-0.05419711514393182,0.19508568902490647
+Full-Time,true,Unclear,Staff IC,,2023-05-05,0.6382031013456823,2.4078916222645086
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-01-04,0.24397590878850628,0.46177513743928256
+Full-Time,Unclear,Bachelors,IC,United States,2023-06-02,-0.05993670109270639,0.3982284767102956
+Full-Time,true,Unclear,Senior IC,United States,2023-04-05,0.9183892236139644,2.0901583186195736
+Gig,Unclear,Bachelors,IC,,2023-05-27,-0.3900512697544739,-0.6401239596013515
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-26,0.24397590878850628,0.04872184270086724
+Full-Time,Unclear,Unclear,Senior IC,United Kingdom,2023-05-10,-0.6531176460503587,-0.491424773495522
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-04-12,0.24397590878850628,-0.00200427922604661
+Full-Time,true,Unclear,Unclear Seniority,Germany,2023-05-08,-0.02494450828253817,-0.3325581216730546
+Contract,true,Unclear,Manager,United States,2023-02-09,0.1886323898819486,1.2516601303005905
+Full-Time,Unclear,Bachelors,IC,United States,2023-05-23,-0.05993670109270639,-0.5157313712243595
+Full-Time,true,Bachelors,Unclear Seniority,United States,2023-05-09,0.09348577226159747,0.021730398556230022
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-04,-0.07582341830059793,-0.6649071572856564
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-01-26,0.06996487757964275,-1.0156847245096645
+Full-Time,true,Unclear,Unclear Seniority,United States,2023-05-08,0.4191554814381107,0.5412084633505163
+Part-Time,Unclear,Bachelors,IC,United States,2023-02-23,-0.9434329528502482,-0.6661780905002361
+Unclear,Unclear,Bachelors,IC,United States,2023-04-25,-0.16758737617286013,-0.2928414587174377
+Unclear,Unclear,Unclear,Unclear Seniority,Hong Kong,2023-05-22,-0.00746719179302945,-1.1726449765102622
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-24,-0.8468437669078466,-0.9292612659182422
+Full-Time,Unclear,Unclear,Unclear Seniority,,2023-05-23,-0.224372256775447,-0.06289786686959838
+Full-Time,Unclear,Bachelors,Manager,United States,2023-05-25,0.4020596103647615,-0.40819453460573135
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-06-02,-0.07582341830059793,-0.5370989358944814
+Full-Time,Unclear,Unclear,Manager,United States,2023-04-03,0.12233765098215377,-1.028394056655462
+Full-Time,false,High School,Unclear Seniority,United States,2023-05-16,-0.6638627819106533,-0.38816144981091816
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-22,-0.9137027807585573,-0.9953497930763887
+Unclear,Unclear,Unclear,Unclear Seniority,Canada,2023-03-27,-0.2506832984815789,-0.8631727387600958
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-09,-0.07582341830059793,-0.05454148098373659
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-15,0.24397590878850628,-0.2789406266829718
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-03-23,0.4401317614849217,0.9849865685513968
+Unclear,Unclear,Unclear,Unclear Seniority,,2023-03-08,-0.4487213911302157,0.021730398556230022
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-06-02,0.4401317614849217,1.3042449920538273
+Unclear,Unclear,Unclear,Unclear Seniority,Indonesia,2023-02-01,-0.00746719179302945,0.021730398556230022
+Full-Time,Unclear,Bachelors,Manager,United States,2023-05-22,0.4020596103647615,0.7842744406388914
+Full-Time,Unclear,Unclear,Junior IC,Canada,2023-05-15,-0.7093365764928363,-0.9521380637806776
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-05-08,0.4401317614849217,-1.2952900317172071
+Full-Time,Unclear,Masters,Intern,Venezuela,2023-04-20,-0.35372548895713357,-0.5327301029693635
+Unclear,Unclear,Unclear,Unclear Seniority,France,2023-05-02,-0.00746719179302945,0.021730398556230022
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-25,-0.8468437669078466,-0.9953497930763887
+Unclear,Unclear,Bachelors,Senior IC,United States,2023-04-21,0.7305817280988962,0.7215221131690168
+Full-Time,false,Bachelors,Staff IC,United States,2023-04-06,0.8874571571525177,1.8049926785982446
+Unclear,true,Unclear,Contract,United Kingdom,2023-01-22,-0.934674349098984,-0.3325581216730546
+Full-Time,Unclear,Bachelors,Unclear Seniority,,2023-05-02,-0.06518596782227044,-0.3924508494101248
+Unclear,Unclear,Unclear,Junior IC,United States,2023-04-24,-0.49345226866146924,-0.2928414587174377
+Full-Time,Unclear,Bachelors,Manager,United States,2023-04-21,0.4020596103647615,1.3355417224628534
+Unclear,Unclear,Unclear,Unclear Seniority,Mexico,2023-01-31,-0.00746719179302945,-1.1586329378195208
+Full-Time,Unclear,Unclear,Contract,United States,2023-04-27,0.2993453652109819,0.06460850788311398
+Unclear,true,Bachelors,Exec,,2023-05-18,0.9195328631706299,-0.22532313169288906
+Full-Time,Unclear,Some High School,Unclear Seniority,United States,2023-05-05,-0.45371502158140514,-0.9127391341287057
+Full-Time,true,Unclear,Unclear Seniority,United States,2023-01-31,0.4191554814381107,0.6930214358320661
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-03-22,0.24397590878850628,0.09638183824760746
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-07,-0.07582341830059793,0.2234751597055814
+Full-Time,Unclear,Unclear,Unclear Seniority,Dominican Republic,2023-05-03,-0.45812778088287404,-0.9680247289629242
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-30,-0.8468437669078466,-1.0614383202345352
+Full-Time,Unclear,Doctorate,Manager,United States,2023-04-20,0.6624072536978395,0.6833941167316246
+Temp,Unclear,Masters,Unclear Seniority,United Kingdom,2023-05-07,-1.0109669076518029,-1.1545341782025011
+Full-Time,Unclear,Doctorate,Senior IC,United States,2023-05-22,0.8622025212485231,1.414975048374087
+Full-Time,Unclear,High School,Senior IC,United States,2023-05-10,-0.4569457507471356,0.43295672679868696
+Full-Time,true,Unclear,Senior IC,United Kingdom,2023-04-27,-0.8303856708680223,-1.5081713451593135
+Unclear,Unclear,Bachelors,Unclear Seniority,New Zealand,2023-05-26,0.139100689950931,-0.17369146985058714
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-04-25,0.06996487757964275,-1.5161146777504368
+Unclear,Unclear,Bachelors,Senior IC,United States,2023-05-24,0.7305817280988962,2.005958993153666
+Full-Time,Unclear,High School,Manager,United States,2023-04-13,-0.7223608559725008,-0.8568180726871971
+Full-Time,Unclear,Bachelors,Manager,,2023-05-23,0.48885008940162794,-0.6649071572856564
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-04,0.24397590878850628,0.38234181152804886
+Full-Time,false,Unclear,Unclear Seniority,Malaysia,2023-03-23,-0.32310063920612814,-0.43359731223214387
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-04-10,0.853143746773787,-1.047458054874158
+Full-Time,true,Unclear,Unclear Seniority,United States,2023-04-27,0.4191554814381107,0.7993667725620258
+Full-Time,false,Bachelors,Senior IC,United States,2023-05-15,0.08097347501582186,1.127950668526435
+Full-Time,Unclear,Unclear,Unclear Seniority,United Kingdom,2023-04-27,-0.8197955388977547,-1.5081713451593135
+Full-Time,Unclear,Unclear,Manager,United States,2023-04-03,0.12233765098215377,0.06460850788311398
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-03-29,0.06996487757964275,1.2561083965516198
+Full-Time,Unclear,Bachelors,IC,United States,2023-04-27,-0.05993670109270639,-0.34664959368970744
+Unclear,Unclear,Bachelors,Unclear Seniority,,2023-04-07,0.3082159772667634,0.3219724838355112
+Full-Time,Unclear,High School,Senior IC,United States,2023-05-19,-0.4569457507471356,0.5640693745477693
+Full-Time,false,Unclear,Unclear Seniority,Latvia,2023-05-25,-0.32310063920612814,-0.1895781350328339
+Full-Time,Unclear,Unclear,Unclear Seniority,Armenia,2023-06-02,-0.45812778088287404,-0.1339748068949703
+Full-Time,true,Unclear,IC,United States,2023-05-23,0.15466607020627582,-0.3325581216730546
+Full-Time,false,Unclear,Manager,United States,2023-02-28,0.5255289033256397,0.4220584744836657
+Full-Time,Unclear,High School,Manager,United States,2023-05-17,-0.7223608559725008,-0.9489607307442282
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-03-02,-0.07582341830059793,-0.8507811399179434
+Full-Time,Unclear,Unclear,Senior IC,,2023-03-29,-0.021385579502514927,0.10432517083873084
+Full-Time,Unclear,High School,Manager,United States,2023-05-25,-0.7223608559725008,-0.983911394145171
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-04-24,0.24397590878850628,-0.3563881194464247
+Full-Time,Unclear,Bachelors,Manager,Rwanda,2023-03-15,0.1350967890778134,0.021730398556230022
+Full-Time,Unclear,Unclear,Staff IC,Australia,2023-04-04,0.33754983613120054,-1.0469814549186907
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-25,-0.8468437669078466,-0.7640399480228761
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-05-17,0.4376022631939808,-0.45011944402168047
+Full-Time,true,Bachelors,Senior IC,India,2023-04-18,-0.3149890160097698,0.021730398556230022
+Full-Time,true,Unclear,Senior IC,India,2023-05-15,-0.28486596529398883,0.021730398556230022
+Unclear,Unclear,Bachelors,Senior IC,China,2023-05-25,0.16047060183403228,0.021730398556230022
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-04-28,0.24397590878850628,-0.5496017413929096
+Full-Time,Unclear,Doctorate,Manager,United States,2023-04-05,0.6624072536978395,-0.23730167724030313
+Full-Time,Unclear,Masters,Staff IC,United States,2023-03-22,0.9266810686788417,0.9955670875627731
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-05,-0.8468437669078466,-0.11808814171272355
+Full-Time,Unclear,Unclear,Manager,United States,2023-05-04,0.12233765098215377,0.18375849674996456
+Intern,Unclear,Unclear,Intern,United States,2023-05-04,-0.579196344091002,-0.4996858393902903
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-04-17,0.24397590878850628,-0.7678527476666154
+Full-Time,Unclear,Unclear,Unclear Seniority,Japan,2023-04-04,-0.45812778088287404,0.021730398556230022
+Contract,Unclear,Unclear,Unclear Seniority,Canada,2023-05-30,-0.2464578427795142,-0.7668995477556805
+Full-Time,Unclear,Unclear,IC,United States,2023-02-01,0.28533417927153853,-0.2188095989681679
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-04-07,0.24397590878850628,-0.09425814393935344
+Contract,Unclear,Bachelors,Unclear Seniority,United States,2023-01-05,0.1953811240990202,-0.14191813948609366
+Full-Time,true,Unclear,Staff IC,,2023-04-27,0.6382031013456823,1.2163917335960028
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-01-25,0.4401317614849217,1.494408374285321
+Full-Time,false,Unclear,Unclear Seniority,United Kingdom,2023-03-31,-0.945982743428135,-1.174551376332132
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-15,-0.8468437669078466,-0.9953497930763887
+Full-Time,Unclear,Unclear,Unclear Seniority,,2023-04-13,-0.224372256775447,-0.5438666552621185
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-30,-0.8468437669078466,-1.2253887049153216
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-04,-0.07582341830059793,-0.16987867020684794
+Full-Time,true,Unclear,Senior IC,United States,2023-04-25,0.9183892236139644,0.3029084856168151
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-12,-0.9137027807585573,-1.160571110971755
+Full-Time,Unclear,Bachelors,Junior IC,United States,2023-03-06,-0.30723990754398345,-0.6274940607814654
+Full-Time,Unclear,Unclear,Senior IC,Netherlands,2023-05-16,-0.4094178495045159,-0.3325581216730546
+Unclear,true,Bachelors,Senior IC,United States,2023-03-01,0.9295299343711564,0.7795084410842174
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-05-23,0.4401317614849217,0.29496515302569176
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-05-20,0.06996487757964275,0.7000751151729837
+Full-Time,Unclear,Bachelors,Manager,United States,2023-04-17,0.4020596103647615,1.176675070640386
+Unclear,true,Bachelors,Senior IC,United States,2023-04-14,0.9295299343711564,1.3355417224628534
+Full-Time,true,Unclear,Junior IC,United States,2023-05-15,-0.05319949163899501,0.15992849897659445
+Full-Time,Unclear,High School,Senior IC,United States,2023-04-22,-0.4569457507471356,-0.6318628937065832
+Full-Time,true,Bachelors,Senior IC,United States,2023-05-12,0.5487991349210541,0.5412084633505163
+Full-Time,Unclear,Masters,Unclear Seniority,,2023-04-28,-0.1693565817002564,-0.5235952704895717
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-01,-0.07582341830059793,-0.34304332069333743
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-04-18,-0.07582341830059793,-0.0750035057384704
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-31,-0.07582341830059793,0.9510685383873
+Unclear,Unclear,Bachelors,IC,India,2023-05-02,-0.21595285958426658,0.021730398556230022
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-04-03,-0.07582341830059793,-1.5081713451593135
+Unclear,Unclear,Bachelors,Unclear Seniority,United Kingdom,2023-04-17,-0.32081348532655035,-1.2061340667144385
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-23,-0.8468437669078466,-1.047458054874158
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-04-18,0.4401317614849217,1.176675070640386
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-03-28,-0.07582341830059793,-0.17369146985058714
+Full-Time,Unclear,Unclear,Unclear Seniority,Austria,2023-02-22,-0.8513551624101893,0.021730398556230022
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-04-25,0.4376022631939808,0.7397917781286005
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-01,-0.07582341830059793,-0.17369146985058714
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-06-01,0.853143746773787,0.5539177954963137
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-03-15,0.4401317614849217,0.6841884499907369
+Unclear,Unclear,Doctorate,Senior IC,United States,2023-05-17,0.8363989833781389,1.5341250372409376
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-04-06,0.4401317614849217,-1.2063247066966254
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-29,-0.8468437669078466,-1.028394056655462
+Temp,Unclear,High School,Unclear Seniority,United States,2023-05-26,-0.926563611612726,-1.028394056655462
+Contract,true,Bachelors,Manager,United States,2023-03-29,0.5780758780395533,-0.3325581216730546
+Full-Time,false,Unclear,Unclear Seniority,India,2023-04-07,-0.04944366014009566,0.021730398556230022
+Unclear,true,Unclear,Unclear Seniority,Canada,2023-05-01,0.5512349223866101,0.10432517083873084
+Full-Time,Unclear,Bachelors,Manager,United States,2023-05-09,0.4020596103647615,1.1106659768081508
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-02-22,0.24397590878850628,0.021730398556230022
+Unclear,true,Unclear,Unclear Seniority,United States,2023-05-18,0.9373660026560691,-0.05454148098373659
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-04-17,0.4401317614849217,-0.5657743665484367
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-17,-0.8468437669078466,-0.983911394145171
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-19,0.24397590878850628,-0.45170811053990517
+Full-Time,Unclear,High School,Senior IC,United States,2023-05-17,-0.4569457507471356,0.7000751151729837
+Full-Time,Unclear,Bachelors,Unclear Seniority,,2023-01-20,-0.06518596782227044,0.7000751151729837
+Contract,Unclear,Bachelors,Senior IC,United States,2023-03-30,0.40311983995198625,2.176899510514641
+Full-Time,Unclear,Unclear,Unclear Seniority,United Kingdom,2023-04-03,-0.8197955388977547,0.021730398556230022
+Full-Time,Unclear,Masters,Unclear Seniority,United States,2023-04-28,0.336571703702325,1.5341250372409376
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-05-25,0.853143746773787,1.2370443983329236
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-08,0.24397590878850628,0.28225582087989437
+Full-Time,true,Unclear,Senior IC,United States,2023-04-27,0.9183892236139644,1.8134126111448354
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-22,-0.9137027807585573,-0.9292612659182422
+Full-Time,Unclear,Doctorate,Staff IC,United States,2023-05-16,1.4577801829096468,1.5261817046498143
+Full-Time,Unclear,Unclear,Unclear Seniority,United Kingdom,2023-03-23,-0.8197955388977547,-0.8409314075049503
+Full-Time,Unclear,Bachelors,Manager,United States,2023-05-04,0.4020596103647615,-0.3722747846286714
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-01-18,-0.07582341830059793,-1.0027847523816802
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-05-10,0.06996487757964275,-0.9680247289629242
+Full-Time,Unclear,Some High School,Unclear Seniority,United States,2023-04-28,-0.45371502158140514,-0.9292612659182422
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-03-14,-0.07582341830059793,0.6412944539986707
+Full-Time,Unclear,Unclear,Unclear Seniority,France,2023-06-02,-0.45812778088287404,-0.1339748068949703
+Full-Time,false,Unclear,Unclear Seniority,United States,2023-05-19,0.14906280658454432,-0.47553810831327525
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-05-24,0.853143746773787,0.5999891245248292
+Full-Time,true,Unclear,Unclear Seniority,United States,2023-04-27,0.4191554814381107,0.7993667725620258
+Unclear,Unclear,Unclear,Unclear Seniority,,2023-04-05,-0.4487213911302157,0.021730398556230022
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-05-26,0.4401317614849217,-0.7297247512292232
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-02-24,0.4401317614849217,0.28702182043456836
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-01-24,-0.07582341830059793,0.18077180369570217
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-01-18,-0.07582341830059793,-1.1275268473926816
+Full-Time,Unclear,Masters,Unclear Seniority,United States,2023-05-11,0.336571703702325,1.7803683475657621
+Full-Time,Unclear,Unclear,Senior IC,Canada,2023-04-05,-0.4576885754143632,-0.8466506069705592
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-05-12,0.06996487757964275,0.8589417669954511
+Full-Time,Unclear,Bachelors,Manager,United States,2023-04-21,0.4020596103647615,1.1449017402758925
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-06-01,-0.8468437669078466,-0.9953497930763887
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-23,-0.8468437669078466,-0.9623055294973154
+Unclear,Unclear,Unclear,Unclear Seniority,Canada,2023-05-29,-0.2506832984815789,-0.9623055294973154
+Unclear,Unclear,Bachelors,Exec,United States,2023-06-02,0.054811559057232756,0.021730398556230022
+Full-Time,Unclear,Bachelors,Manager,Australia,2023-02-16,0.265857605357722,0.8589417669954511
+Full-Time,true,Unclear,Unclear Seniority,Switzerland,2023-01-12,-0.1721026260606628,0.18375849674996456
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-24,-0.8468437669078466,-0.9292612659182422
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-31,0.24397590878850628,-0.06725081312953399
+Intern,Unclear,Unclear,Intern,United States,2023-05-16,-0.579196344091002,-0.7297247512292232
+Full-Time,true,Bachelors,Senior IC,,2023-05-17,0.07483326599039256,-0.13696149994923268
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-01-12,-0.07582341830059793,-0.05454148098373659
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-05-05,0.4376022631939808,1.0416384165912886
+Part-Time,Unclear,Unclear,Manager,United States,2023-04-29,-0.7595419268156913,-1.174551376332132
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-03-24,0.24397590878850628,0.62064178926175
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-05-03,0.06996487757964275,0.7795084410842174
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-31,-0.8468437669078466,-0.9623055294973154
+Full-Time,true,Unclear,Senior IC,United States,2023-03-17,0.9183892236139644,1.0178084188179186
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-15,-0.8468437669078466,-0.9362513985984308
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-25,-0.8468437669078466,-0.9953497930763887
+Full-Time,Unclear,Bachelors,Manager,United States,2023-04-05,0.4020596103647615,0.14169060734737518
+Unclear,true,Unclear,Senior IC,United States,2023-04-07,1.0675218546388578,0.06460850788311398
+Full-Time,Unclear,Unclear,Staff IC,United States,2023-05-15,1.0323705659496922,0.5213501318727078
+Full-Time,true,Doctorate,Staff IC,United States,2023-02-16,1.8405381112343453,3.2419415443324624
+Unclear,Unclear,Unclear,Unclear Seniority,,2023-02-14,-0.4487213911302157,-0.7297247512292232
+Contract,Unclear,Bachelors,Unclear Seniority,United States,2023-05-09,0.1953811240990202,0.5412084633505163
+Hourly,Unclear,High School,Unclear Seniority,United States,2023-04-04,-0.8100531381104706,-0.13619894002048485
+Full-Time,Unclear,Unclear,Unclear Seniority,Austria,2023-04-13,-0.8513551624101893,-0.7932714119582102
+Full-Time,Unclear,Unclear,Unclear Seniority,Jordan,2023-06-02,-0.45812778088287404,-0.1339748068949703
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-06-02,0.4376022631939808,-0.491424773495522
+Full-Time,Unclear,Unclear,Manager,United States,2023-04-25,0.12233765098215377,1.494408374285321
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-05-09,0.4401317614849217,1.025751751409042
+Full-Time,Unclear,Unclear,Unclear Seniority,United Kingdom,2023-05-22,-0.8197955388977547,-0.3325581216730546
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-03-31,0.24397590878850628,-0.4119914475842883
+Full-Time,Unclear,Unclear,Junior IC,United States,2023-05-26,-0.498472432882485,-0.45170811053990517
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-05-04,0.4401317614849217,0.47750293596970683
+Full-Time,false,Unclear,Unclear Seniority,United Kingdom,2023-05-02,-0.945982743428135,0.722951913035419
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-22,-0.07582341830059793,-1.365191358519093
+Part-Time,Unclear,Bachelors,IC,United States,2023-01-04,-0.9434329528502482,-0.6661780905002361
+Unclear,Unclear,Bachelors,Junior IC,United States,2023-04-26,-0.6695256246641282,0.5014918003948994
+Full-Time,false,Unclear,Unclear Seniority,Germany,2023-04-20,-0.15284371155574283,-0.43359731223214387
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-04-28,0.4376022631939808,-0.6502914253179894
+Full-Time,false,Unclear,IC,United States,2023-01-18,0.3982424474783127,1.3838371846168835
+Full-Time,Unclear,Some High School,Manager,Ireland,2023-05-17,-0.23271534185019735,-1.1427780459676384
+Full-Time,true,Unclear,Senior IC,United Kingdom,2023-05-12,-0.8303856708680223,0.1440418337943477
+Full-Time,Unclear,Unclear,Manager,United Kingdom,2023-05-11,-0.39752552164009486,-0.7138380860469764
+Hourly,Unclear,Unclear,Unclear Seniority,United States,2023-02-22,-0.4526310132788235,-0.8885914030516906
+Temp,Unclear,Unclear,Unclear Seniority,United Kingdom,2023-05-12,-0.994594555121202,0.1933222691896771
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-24,-0.8468437669078466,-0.9953497930763887
+Full-Time,Unclear,Bachelors,IC,United States,2023-04-04,-0.05993670109270639,-0.2928414587174377
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-08,0.24397590878850628,1.069916680615688
+Full-Time,Unclear,Unclear,Senior IC,Austria,2023-04-04,-0.7264711366238813,0.12815516861210094
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-01-22,0.06996487757964275,-1.2952900317172071
+Full-Time,true,Bachelors,Senior IC,United States,2023-05-15,0.5487991349210541,0.8149674777709921
+Full-Time,false,Unclear,Unclear Seniority,Netherlands,2023-05-12,-0.32310063920612814,-0.5407369822212159
+Unclear,true,Unclear,Unclear Seniority,Brazil,2023-01-03,0.28332542493475515,-0.33446452149492417
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-04-04,0.4376022631939808,-0.09425814393935344
+Full-Time,true,Unclear,Manager,Germany,2023-05-15,0.08898959719182027,-0.7297247512292232
+Unclear,true,Bachelors,Unclear Seniority,United States,2023-05-05,0.324531421762154,0.4172924749289917
+Full-Time,Unclear,Unclear,Unclear Seniority,United Kingdom,2023-03-24,-0.8197955388977547,-0.7970842116019493
+Full-Time,Unclear,Unclear,Staff IC,United States,2023-05-23,1.0323705659496922,1.0071802398109955
+Unclear,true,Unclear,Unclear Seniority,United States,2023-05-31,0.9373660026560691,0.62064178926175
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-02-23,0.24397590878850628,0.10432517083873084
+Unclear,Unclear,High School,Unclear Seniority,United States,2023-05-24,-0.8472021702657349,-0.08750631123689857
+Full-Time,Unclear,Unclear,Senior IC,Ireland,2023-06-01,-0.4094178495045159,-1.5081713451593135
+Full-Time,true,Unclear,Senior IC,United States,2023-02-13,0.9183892236139644,0.16787183156771782
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-05-25,-0.03814437915526171,-0.3722747846286714
+Unclear,Unclear,Unclear,Senior IC,Spain,2023-04-03,-0.3471973605460549,-1.5161146777504368
+Contract,Unclear,Bachelors,Unclear Seniority,United States,2023-05-25,0.1953811240990202,0.2234751597055814
+Hourly,Unclear,Unclear,Intern,United States,2023-04-13,-0.6452643164266328,-0.7297247512292232
+Full-Time,Unclear,Associates,IC,United States,2023-04-28,-0.0882927079494736,-0.23863615711561184
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-26,-0.9137027807585573,-0.9623055294973154
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-23,-0.8468437669078466,-0.983911394145171
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-19,-0.8468437669078466,-1.0792313852386515
+Part-Time,false,High School,IC,United States,2023-03-31,-0.5356582230978075,-0.9232084464838062
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-23,-0.8468437669078466,-1.028394056655462
+Full-Time,Unclear,Bachelors,Manager,United States,2023-05-16,0.4020596103647615,0.3029084856168151
+Contract,Unclear,Bachelors,Senior IC,United States,2023-05-05,0.40311983995198625,1.102960944194761
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-04,-0.9137027807585573,-0.8885914030516906
+Unclear,Unclear,High School,Manager,United States,2023-05-23,-0.7881937779441092,-1.0156847245096645
+Full-Time,Unclear,Masters,Unclear Seniority,United States,2023-05-15,0.336571703702325,-0.19752146762395728
+Full-Time,true,Bachelors,Unclear Seniority,,2023-05-18,0.2464566751969823,1.176675070640386
+Full-Time,Unclear,Unclear,Senior IC,Israel,2023-05-30,-0.4094178495045159,-0.2928414587174377
+Full-Time,true,Bachelors,Unclear Seniority,United Kingdom,2023-05-05,-0.6239855727579169,-0.3722747846286714
+Intern,Unclear,Unclear,Intern,United States,2023-05-30,-0.579196344091002,-0.6502914253179894
+Full-Time,false,Bachelors,Unclear Seniority,United States,2023-05-09,-0.01981310386197188,0.021730398556230022
+Full-Time,Unclear,Unclear,Staff IC,United States,2023-04-19,1.0323705659496922,1.6532750261077882
+Full-Time,Unclear,Unclear,Manager,,2023-05-05,0.7603182098023336,-0.6502914253179894
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-03-14,0.4376022631939808,0.7696428220060422
+Unclear,Unclear,Unclear,IC,United Kingdom,2023-04-20,-0.8651104486090775,0.021730398556230022
+Full-Time,Unclear,Some High School,IC,United States,2023-05-24,-0.5150916296583169,-0.886303723265447
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-03-10,0.4401317614849217,0.4220584744836657
+Full-Time,true,Unclear,Senior IC,United States,2023-05-04,0.9183892236139644,0.8589417669954511
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-01-24,-0.07582341830059793,1.6532750261077882
+Unclear,true,Unclear,Senior IC,United States,2023-05-01,1.0675218546388578,0.986035088453425
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-03-27,-0.07582341830059793,-1.047458054874158
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-01-03,0.06996487757964275,-0.19513846784662026
+Full-Time,Unclear,Unclear,Senior IC,Germany,2023-05-26,-0.24367367713614357,-0.11649947519449888
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-05-10,0.4401317614849217,-0.13696149994923268
+Full-Time,Unclear,Bachelors,Manager,United States,2023-03-29,0.4020596103647615,1.264051729142743
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-03-21,0.4401317614849217,1.1369584076847692
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-05-03,0.853143746773787,-0.8885914030516906
+Full-Time,Unclear,Bachelors,Manager,Malawi,2023-05-05,0.1350967890778134,-1.3572480259279696
+Full-Time,Unclear,High School,Manager,United States,2023-04-11,-0.7223608559725008,1.033345577366156
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-23,-0.07582341830059793,0.024891844927497124
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-03-20,0.24397590878850628,0.01218251278169973
+Unclear,Unclear,Unclear,Unclear Seniority,Germany,2023-03-22,0.11466740003065712,0.021730398556230022
+Intern,Unclear,Unclear,Intern,United States,2023-05-25,-0.579196344091002,-0.6153407619170466
+Unclear,Unclear,Unclear,IC,United States,2023-05-31,0.3139426851349468,-0.5708580994067557
+Full-Time,Unclear,Unclear,Manager,United States,2023-03-08,0.12233765098215377,0.1440418337943477
+Full-Time,false,Bachelors,Unclear Seniority,United States,2023-04-07,-0.01981310386197188,0.001061847154127011
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-04-11,-0.03814437915526171,0.1749413975738176
+Unclear,true,Unclear,Manager,United States,2023-05-26,0.9640506265562007,1.8432954283526415
+Unclear,Unclear,Unclear,Senior IC,United States,2023-05-22,0.6987648905759417,0.279078487843445
+Part-Time,true,Unclear,Unclear Seniority,United States,2023-01-31,-0.5844828021457081,-0.6502914253179894
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-31,-0.8468437669078466,-0.983911394145171
+Full-Time,Unclear,Unclear,Unclear Seniority,Netherlands,2023-02-24,-0.45812778088287404,-0.5136661047506674
+Full-Time,false,Bachelors,Unclear Seniority,Mexico,2023-04-24,-0.306708592756524,0.021730398556230022
+Full-Time,Unclear,Bachelors,Unclear Seniority,India,2023-05-18,-0.00720446640522887,0.021730398556230022
+Full-Time,false,Unclear,Unclear Seniority,United States,2023-04-21,0.14906280658454432,-0.09425814393935344
+Intern,Unclear,Unclear,Intern,United States,2023-05-12,-0.579196344091002,-0.004021885704191946
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-26,-0.07582341830059793,0.001061847154127011
+Full-Time,Unclear,Bachelors,IC,,2023-03-24,-0.3003466502302892,-0.347650453596189
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-10,0.24397590878850628,0.21791482689179506
+Contract,Unclear,Bachelors,Unclear Seniority,United States,2023-05-26,0.1953811240990202,0.2234751597055814
+Hourly,Unclear,Unclear,Unclear Seniority,Canada,2023-05-25,-0.6585627783955408,-0.9203647334161841
+Full-Time,false,Unclear,Unclear Seniority,India,2023-01-05,-0.04944366014009566,0.021730398556230022
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-05-08,0.4401317614849217,0.2234751597055814
+Full-Time,true,Unclear,Staff IC,,2023-04-12,0.6382031013456823,0.45383180484815916
+Unclear,Unclear,Unclear,Manager,United States,2023-04-19,0.9806524040689837,0.6126984566706266
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-18,-0.07582341830059793,4.044218136035923
+Full-Time,Unclear,Unclear,IC,Spain,2023-05-08,-0.4623783213782729,-0.9680247289629242
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-08,0.24397590878850628,0.62064178926175
+Full-Time,Unclear,Unclear,Junior IC,United States,2023-03-02,-0.498472432882485,-0.3325581216730546
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-04,-0.8468437669078466,-0.8301284751810225
+Full-Time,Unclear,Unclear,IC,United States,2023-01-27,0.28533417927153853,0.09121867206337728
+Full-Time,true,Unclear,Unclear Seniority,,2023-05-16,0.08336275567384797,0.46177513743928256
+Unclear,Unclear,Unclear,Senior IC,United States,2023-05-05,0.6987648905759417,0.32794586994403596
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-04-24,-0.07582341830059793,2.0504416556639566
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-05-15,-0.03814437915526171,-1.365191358519093
+Unclear,Unclear,Unclear,Manager,Australia,2023-05-25,0.4485266467499192,0.6112845434694066
+Full-Time,true,Bachelors,Unclear Seniority,United States,2023-05-23,0.09348577226159747,0.44271113922058647
+Full-Time,false,Unclear,Unclear Seniority,United Kingdom,2023-04-26,-0.945982743428135,-1.269648954113061
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-05-12,0.06996487757964275,-0.4996858393902903
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-03-08,-0.03814437915526171,-0.014824818028119732
+Unclear,Unclear,Bachelors,Unclear Seniority,Austria,2023-03-28,-0.4506166087815457,-1.5161146777504368
+Full-Time,Unclear,Unclear,Unclear Seniority,Canada,2023-04-24,-0.6229697695557468,-0.3325581216730546
+Full-Time,Unclear,Unclear,Junior IC,United States,2023-05-16,-0.498472432882485,-0.45170811053990517
+Full-Time,Unclear,Unclear,Unclear Seniority,Austria,2023-05-19,-0.8513551624101893,-0.2683759943367777
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-26,-0.9137027807585573,-0.9623055294973154
+Full-Time,true,Unclear,Unclear Seniority,United States,2023-05-04,0.4191554814381107,0.20758849452333467
+Full-Time,true,Unclear,Senior IC,United States,2023-04-25,0.9183892236139644,0.06460850788311398
+Full-Time,Unclear,Bachelors,Manager,United States,2023-03-02,0.4020596103647615,0.9224884277244381
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-01-23,-0.07582341830059793,4.036274803444799
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-05-15,-0.03814437915526171,-1.365191358519093
+Full-Time,Unclear,Unclear,Chief,United States,2023-04-12,1.209770674042792,-0.7297247512292232
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-23,-0.8468437669078466,-0.9623055294973154
+Full-Time,false,Bachelors,Unclear Seniority,United States,2023-03-29,-0.01981310386197188,0.06567291445032451
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-04-27,0.4401317614849217,0.3029084856168151
+Contract,false,Unclear,IC,United States,2023-03-31,0.14450475434510507,0.46177513743928256
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-05-31,0.4401317614849217,0.45035262517324715
+Full-Time,Unclear,Unclear,Unclear Seniority,Italy,2023-05-26,-0.45812778088287404,0.021730398556230022
+Full-Time,Unclear,Bachelors,IC,United States,2023-05-23,-0.05993670109270639,-0.7535547490025932
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-24,0.24397590878850628,0.279078487843445
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-25,-0.8468437669078466,-0.6976336875610847
+Full-Time,false,Bachelors,Unclear Seniority,United States,2023-04-19,-0.01981310386197188,-0.9521380637806776
+Full-Time,Unclear,Bachelors,Manager,United States,2023-05-04,0.4020596103647615,0.02076131198011297
+Full-Time,true,Unclear,Senior IC,United States,2023-05-09,0.9183892236139644,0.8589417669954511
+Full-Time,Unclear,Bachelors,Manager,United States,2023-04-12,0.4020596103647615,0.3029084856168151
+Unclear,true,Unclear,Staff IC,United States,2023-03-16,1.1366339819339806,1.7196018532436683
+Unclear,Unclear,Unclear,Senior IC,United Kingdom,2023-05-02,-0.7606331269234468,0.021730398556230022
+Full-Time,true,Unclear,Unclear Seniority,United States,2023-04-19,0.4191554814381107,-0.10696747608515084
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-10,-0.9137027807585573,-0.9953497930763887
+Full-Time,Unclear,Unclear,Manager,United States,2023-05-05,0.12233765098215377,0.7000751151729837
+Hourly,Unclear,Bachelors,Junior IC,United States,2023-05-16,-0.7065296830964916,-0.5708580994067557
+Unclear,true,Bachelors,Unclear Seniority,United States,2023-04-18,0.324531421762154,-0.5700637661476434
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-03-14,0.4376022631939808,-0.09425814393935344
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-23,-0.8468437669078466,-0.896217002339169
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-31,-0.8468437669078466,-0.9292612659182422
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-02-10,0.4401317614849217,0.3029084856168151
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-23,-0.8468437669078466,-1.028394056655462
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-06-02,0.24397590878850628,-0.4119914475842883
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-03-15,-0.03814437915526171,0.2494816306089193
+Full-Time,Unclear,Bachelors,Junior IC,United States,2023-03-14,-0.30723990754398345,-0.2412097968751358
+Unclear,true,Unclear,Senior IC,United States,2023-04-21,1.0675218546388578,1.176675070640386
+Full-Time,Unclear,Bachelors,Manager,United States,2023-04-06,0.4020596103647615,1.0114537527450198
+Full-Time,Unclear,Masters,Senior IC,United States,2023-03-22,0.270123658814021,-0.1256819676698375
+Full-Time,true,Unclear,Senior IC,,2023-05-09,0.1500360522901418,0.5412084633505163
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-03-07,0.853143746773787,0.3648664798275774
+Full-Time,Unclear,Unclear,Manager,United States,2023-03-30,0.12233765098215377,0.06460850788311398
+Full-Time,Unclear,Unclear,Junior IC,United States,2023-04-10,-0.498472432882485,-0.59881863012751
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-26,-0.8468437669078466,-0.9203647334161841
+Full-Time,true,Bachelors,Senior IC,United States,2023-04-04,0.5487991349210541,0.9745172561962961
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-02,0.24397590878850628,-1.365191358519093
+Full-Time,Unclear,Unclear,Junior IC,United States,2023-05-25,-0.498472432882485,-0.45170811053990517
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-01-26,0.24397590878850628,0.7000751151729837
+Full-Time,true,Bachelors,Unclear Seniority,United States,2023-05-11,0.09348577226159747,0.5968117914883798
+Contract,Unclear,Unclear,Senior IC,United States,2023-06-02,-0.06073980641441018,1.0178084188179186
+Hourly,false,Some High School,Manager,United States,2023-05-19,-1.2041112067893605,-0.9521380637806776
+Full-Time,Unclear,Unclear,IC,United States,2023-01-23,0.28533417927153853,-0.34050145426417794
+Full-Time,Unclear,Some High School,Unclear Seniority,United States,2023-05-30,-0.45371502158140514,-1.028394056655462
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-05-09,-0.03814437915526171,0.46177513743928256
+Full-Time,false,Unclear,Unclear Seniority,Mexico,2023-05-12,-0.32310063920612814,0.021730398556230022
+Unclear,true,Bachelors,Unclear Seniority,United States,2023-03-15,0.324531421762154,0.2631918226611983
+Full-Time,Unclear,Unclear,IC,United States,2023-02-16,0.28533417927153853,0.18375849674996456
+Hourly,Unclear,Unclear,Unclear Seniority,United States,2023-05-01,-0.4526310132788235,-0.8885914030516906
+Unclear,Unclear,Bachelors,Unclear Seniority,,2023-04-17,0.3082159772667634,0.5794158931138197
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-05-17,0.853143746773787,0.2711351552523216
+Full-Time,true,Bachelors,Unclear Seniority,United States,2023-06-02,0.09348577226159747,0.5412084633505163
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-04-12,-0.03814437915526171,0.18375849674996456
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-15,-0.9137027807585573,-1.5238991436897378
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-29,-0.8468437669078466,-1.0614383202345352
+Full-Time,true,Bachelors,Unclear Seniority,Poland,2023-03-13,0.009011579784382271,-0.5946880971801258
+Full-Time,true,Unclear,Senior IC,United States,2023-06-01,0.9183892236139644,0.8589417669954511
+Full-Time,true,Unclear,Senior IC,United States,2023-05-24,0.9183892236139644,1.2561083965516198
+Unclear,Unclear,Bachelors,Senior IC,United States,2023-04-19,0.7305817280988962,0.48560513521265264
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-03-20,-0.07582341830059793,-0.491424773495522
+Full-Time,true,Unclear,Unclear Seniority,,2023-05-25,0.08336275567384797,-1.0951180504208982
+Unclear,Unclear,Bachelors,Senior IC,China,2023-04-26,0.16047060183403228,0.021730398556230022
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-05-15,-0.03814437915526171,-1.365191358519093
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-25,-0.8468437669078466,-1.028394056655462
+Full-Time,false,Bachelors,Unclear Seniority,United States,2023-04-21,-0.01981310386197188,0.342625148572432
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-05-30,0.06996487757964275,-0.03706614928326517
+Unclear,Unclear,Bachelors,IC,,2023-04-27,-0.04151299456334007,0.021730398556230022
+Contract,Unclear,Bachelors,Unclear Seniority,United States,2023-04-07,0.1953811240990202,0.4458884722570358
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-22,-0.9137027807585573,-0.8301284751810225
+Unclear,Unclear,Bachelors,Senior IC,United States,2023-03-20,0.7305817280988962,1.4753443760666247
+Unclear,Unclear,Unclear,Unclear Seniority,,2023-04-03,-0.4487213911302157,-0.6566460913908881
+Full-Time,false,Bachelors,Staff IC,New Zealand,2023-05-03,0.16862089640868472,0.021730398556230022
+Unclear,Unclear,Bachelors,Senior IC,United States,2023-05-16,0.7305817280988962,-1.365191358519093
+Full-Time,Unclear,Unclear,Manager,United States,2023-03-21,0.12233765098215377,-0.5708580994067557
+Unclear,Unclear,Bachelors,Unclear Seniority,,2023-05-15,0.3082159772667634,0.2751068215478833
+Full-Time,Unclear,Unclear,Unclear Seniority,,2023-05-15,-0.224372256775447,-1.046822588266868
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-06-02,-0.07582341830059793,-1.5200863440459986
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-02-14,0.4401317614849217,0.1440418337943477
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-03-08,0.4376022631939808,0.3029084856168151
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-03-16,0.4401317614849217,-1.2063247066966254
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-31,-0.9137027807585573,-1.028394056655462
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-04-13,-0.07582341830059793,-0.6318628937065832
+Full-Time,Unclear,Bachelors,Manager,United States,2023-03-07,0.4020596103647615,2.2066870077313534
+Unclear,true,Bachelors,IC,Hungary,2023-03-03,-0.07054095860890688,0.021730398556230022
+Full-Time,false,Unclear,Unclear Seniority,Belgium,2023-05-04,-0.32310063920612814,0.021730398556230022
+Full-Time,false,Unclear,Unclear Seniority,Brazil,2023-02-07,-0.3864664577436274,-0.7614980815937167
+Unclear,Unclear,Unclear,Unclear Seniority,,2023-04-12,-0.4487213911302157,-0.17369146985058714
+Full-Time,Unclear,Masters,Senior IC,United States,2023-05-02,0.270123658814021,0.9701484232711783
+Full-Time,Unclear,Masters,Intern,Venezuela,2023-04-20,-0.35372548895713357,-0.5327301029693635
+Unclear,Unclear,Unclear,Manager,United States,2023-05-01,0.9806524040689837,1.6532750261077882
+Full-Time,Unclear,Unclear,Staff IC,United States,2023-02-08,1.0323705659496922,1.765101262325623
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-19,-0.07582341830059793,1.025751751409042
+Contract,false,Bachelors,Unclear Seniority,Canada,2023-03-07,0.10271475443299866,-1.1904380415143787
+Full-Time,Unclear,Unclear,Unclear Seniority,,2023-03-21,-0.224372256775447,-1.0470291149142374
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-04-17,0.06996487757964275,-0.15272107181002145
+Full-Time,false,Unclear,Unclear Seniority,Romania,2023-05-11,-0.2632291327563458,-0.23533173075770453
+Unclear,Unclear,Unclear,Senior IC,United States,2023-03-28,0.6987648905759417,1.0357921238042218
+Full-Time,Unclear,Some High School,Unclear Seniority,United States,2023-04-26,-0.45371502158140514,-1.5081713451593135
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-04-20,0.4401317614849217,-0.3325581216730546
+Full-Time,true,Bachelors,Senior IC,United States,2023-03-06,0.5487991349210541,0.6226276224095308
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-03-17,-0.07582341830059793,-0.17369146985058714
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-05-26,-0.03814437915526171,0.30427473882248834
+Full-Time,false,Bachelors,Chief,United States,2023-04-27,1.307758100981807,1.2561083965516198
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-01-03,0.24397590878850628,-1.365191358519093
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-06-01,-0.8468437669078466,-0.9953497930763887
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-01,0.24397590878850628,0.10432517083873084
+Unclear,Unclear,Unclear,Unclear Seniority,,2023-05-14,-0.4487213911302157,0.021730398556230022
+Full-Time,Unclear,Unclear,Senior IC,India,2023-05-16,-0.2836435453059732,0.021730398556230022
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-17,-0.8468437669078466,-0.7614980815937167
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-10,-0.8468437669078466,-0.9623055294973154
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-08,0.24397590878850628,1.6532750261077882
+Full-Time,false,Unclear,Unclear Seniority,United States,2023-01-19,0.14906280658454432,0.3029084856168151
+Full-Time,false,Unclear,Unclear Seniority,Netherlands,2023-03-22,-0.32310063920612814,-0.5708580994067557
+Full-Time,Unclear,Unclear,Senior IC,Germany,2023-04-11,-0.24367367713614357,-1.2952900317172071
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-03-31,-0.07582341830059793,0.8192251040398343
+Full-Time,true,Doctorate,Staff IC,United States,2023-03-02,1.8405381112343453,-0.7297247512292232
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-08,0.24397590878850628,-0.1578048046683404
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-17,-0.8468437669078466,-1.0156847245096645
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-01-22,-0.03814437915526171,-1.2952900317172071
+Unclear,false,Unclear,Director,United States,2023-04-20,1.3924705717356296,2.121852215658156
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-05-16,0.4401317614849217,1.1385470742029937
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-30,-0.8468437669078466,-0.6340870268320977
+Full-Time,Unclear,Bachelors,Manager,United States,2023-05-25,0.4020596103647615,0.9224884277244381
+Hourly,Unclear,Bachelors,Senior IC,Canada,2023-02-02,-0.22245468065706023,0.1758151641588412
+Full-Time,true,Unclear,Unclear Seniority,United States,2023-03-15,0.4191554814381107,1.0178084188179186
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-06-01,0.24397590878850628,1.1171000762069607
+Full-Time,Unclear,Unclear,Unclear Seniority,Serbia,2023-03-07,-0.45812778088287404,-0.1339748068949703
+Full-Time,true,Unclear,Unclear Seniority,United States,2023-03-08,0.4191554814381107,4.830608062557137
+Unclear,Unclear,Bachelors,Manager,United States,2023-01-10,0.3538840425957872,-0.30237345782678576
+Full-Time,Unclear,Masters,IC,United States,2023-01-25,0.020836980608028403,-0.5708580994067557
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-22,-0.8468437669078466,-0.9543780835713743
+Full-Time,Unclear,Unclear,Unclear Seniority,Canada,2023-06-02,-0.6229697695557468,-0.1339748068949703
+Unclear,true,Unclear,Unclear Seniority,United States,2023-03-13,0.9373660026560691,0.62064178926175
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-22,-0.9137027807585573,-1.0944825838136083
+Full-Time,true,Unclear,Unclear Seniority,United States,2023-05-16,0.4191554814381107,-0.5803900985161038
+Full-Time,Unclear,High School,Unclear Seniority,Canada,2023-05-24,-0.8126002081458611,-0.8110644769623264
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-26,-0.07582341830059793,0.001061847154127011
+Full-Time,false,Unclear,Unclear Seniority,United States,2023-03-20,0.14906280658454432,0.3029084856168151
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-05-30,0.853143746773787,0.3648664798275774
+Full-Time,true,High School,Unclear Seniority,United States,2023-05-25,-0.48657685866759764,-0.9623055294973154
+Full-Time,Unclear,Unclear,Unclear Seniority,Brazil,2023-05-16,-0.5306229935906185,-1.238098037061119
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-30,-0.8468437669078466,-0.9953497930763887
+Full-Time,false,Unclear,Unclear Seniority,United Kingdom,2023-05-20,-0.945982743428135,-0.7343001108017102
+Full-Time,true,Bachelors,Unclear Seniority,United States,2023-04-24,0.09348577226159747,0.1503964998672464
+Full-Time,true,Unclear,Staff IC,United States,2023-05-23,1.38257151477102,1.464223710439052
+Unclear,true,Unclear,Senior IC,United States,2023-05-16,1.0675218546388578,0.23936182488782815
+Full-Time,Unclear,Unclear,Staff IC,United States,2023-04-07,1.0323705659496922,1.176675070640386
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-06-01,0.24397590878850628,-0.3206431227863695
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-23,0.24397590878850628,-0.25376026236911076
+Full-Time,Unclear,Bachelors,Manager,United States,2023-05-11,0.4020596103647615,-0.4119914475842883
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-02-03,0.4401317614849217,0.342625148572432
+Unclear,Unclear,Unclear,Unclear Seniority,,2023-04-24,-0.4487213911302157,-1.047458054874158
+Unclear,Unclear,Bachelors,Senior IC,,2023-05-22,0.48065197866740017,-0.6502914253179894
+Full-Time,true,Bachelors,Unclear Seniority,United States,2023-05-24,0.09348577226159747,0.21948760674483747
+Unclear,Unclear,Unclear,Senior IC,United States,2023-03-07,0.6987648905759417,0.7556784433108473
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-26,0.24397590878850628,4.830608062557137
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-04-14,-0.07582341830059793,-0.6026314297712492
+Full-Time,Unclear,Bachelors,Exec,United States,2023-05-12,0.6940455821981663,0.9689569233825098
+Unclear,true,Unclear,Senior IC,United States,2023-02-17,1.0675218546388578,1.414975048374087
+Unclear,Unclear,Bachelors,Unclear Seniority,China,2023-01-13,0.17060639465162128,0.021730398556230022
+Unclear,false,Unclear,Unclear Seniority,Ecuador,2023-01-07,0.14470166840596618,-1.5204517373451902
+Full-Time,true,Unclear,Senior IC,,2023-03-18,0.1500360522901418,1.0178084188179186
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-24,-0.8468437669078466,-0.9623055294973154
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-04-27,-0.07582341830059793,-0.7970842116019493
+Full-Time,Unclear,Unclear,Unclear Seniority,Australia,2023-05-15,-0.08407016666299595,-1.047458054874158
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-01-03,0.4401317614849217,1.3101230581712586
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-05-31,0.4376022631939808,0.49354846780377604
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-05-10,-0.03814437915526171,1.0178084188179186
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-05-15,-0.03814437915526171,-0.05454148098373659
+Full-Time,true,Unclear,Senior IC,United States,2023-01-30,0.9183892236139644,1.1369584076847692
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-17,-0.9137027807585573,-1.0156847245096645
+Full-Time,true,Masters,IC,United States,2023-05-04,0.7119181330318528,0.38234181152804886
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-02-03,0.4376022631939808,1.3585297269815644
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-03-06,0.24397590878850628,-0.06566214661130931
+Unclear,Unclear,Unclear,Senior IC,United States,2023-04-12,0.6987648905759417,2.0567963217368557
+Full-Time,Unclear,Bachelors,Manager,United States,2023-03-09,0.4020596103647615,0.36645514634580206
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-02-28,0.24397590878850628,0.13593963455140184
+Unclear,Unclear,Unclear,Unclear Seniority,United Kingdom,2023-05-22,-0.18245599545948576,-0.8727047378694438
+Full-Time,Unclear,Unclear,IC,United States,2023-05-10,0.28533417927153853,0.6403412540877359
+Unclear,true,Masters,Unclear Seniority,,2023-04-28,0.9284907935978802,0.19487916237753727
+Full-Time,Unclear,Unclear,Unclear Seniority,Serbia,2023-06-02,-0.45812778088287404,-0.1339748068949703
+Hourly,Unclear,Unclear,Unclear Seniority,United States,2023-04-28,-0.4526310132788235,-1.0633447200564048
+Part-Time,true,Unclear,Senior IC,United States,2023-05-22,0.3017684757236031,-0.2531247957618209
+Full-Time,Unclear,Unclear,IC,Germany,2023-05-08,-0.31745173914246494,-0.6693554235366855
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-31,-0.8468437669078466,-1.0614383202345352
+Full-Time,Unclear,Unclear,Manager,United States,2023-04-28,0.12233765098215377,0.10432517083873084
+Full-Time,false,Some High School,Unclear Seniority,United States,2023-05-17,-0.346205403056372,-0.5390847690422622
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-04-13,0.4401317614849217,-1.2063247066966254
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-22,0.24397590878850628,0.5412084633505163
+Full-Time,Unclear,Some High School,Manager,United States,2023-03-21,-0.7312816152709701,0.6603584522173668
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-02-08,0.06996487757964275,0.2234751597055814
+Unclear,Unclear,Bachelors,Director,United States,2023-05-18,1.1480008918550866,1.5031460401355565
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-01,-0.07582341830059793,-0.15797955798534513
+Full-Time,Unclear,Bachelors,Junior IC,Taiwan,2023-04-24,-0.6270609830206796,-0.5708580994067557
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-05-04,-0.03814437915526171,0.38234181152804886
+Full-Time,Unclear,Doctorate,Staff IC,United States,2023-04-12,1.4577801829096468,1.6723390243264844
+Unclear,Unclear,Unclear,Senior IC,United Kingdom,2023-03-01,-0.7606331269234468,-0.9435592645822644
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-26,-0.8468437669078466,-1.028394056655462
+Full-Time,Unclear,Unclear,Unclear Seniority,United Kingdom,2023-05-23,-0.8197955388977547,-0.8568180726871971
+Full-Time,Unclear,Bachelors,Manager,,2023-05-04,0.48885008940162794,-0.5266931702001098
+Full-Time,Unclear,Unclear,Unclear Seniority,Brazil,2023-03-17,-0.5306229935906185,0.021730398556230022
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-18,-0.07582341830059793,-1.0449161884449985
+Full-Time,true,Unclear,IC,United States,2023-04-28,0.15466607020627582,1.7803683475657621
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-04-19,-0.03814437915526171,-0.2928414587174377
+Unclear,true,Bachelors,IC,United States,2023-05-01,0.2952796786328985,0.2631918226611983
+Full-Time,Unclear,Bachelors,Junior IC,United States,2023-03-14,-0.30723990754398345,-0.3325581216730546
+Unclear,Unclear,Unclear,Unclear Seniority,,2023-05-05,-0.4487213911302157,-0.707118026674886
+Unclear,Unclear,Unclear,Unclear Seniority,China,2023-04-24,0.03723447781765725,0.021730398556230022
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-05-17,0.4401317614849217,-0.13696149994923268
+Full-Time,true,Unclear,Unclear Seniority,United Kingdom,2023-05-26,-0.8272707096423207,-1.111004715603145
+Full-Time,Unclear,Unclear,IC,United Kingdom,2023-05-22,-0.9594590193389158,0.021730398556230022
+Full-Time,true,Bachelors,IC,United States,2023-04-24,0.15066238276157196,-0.5033397723822071
+Commission,Unclear,Unclear,Unclear Seniority,,2023-04-14,-0.28363853305439835,-0.8657146051892552
+Full-Time,Unclear,Bachelors,IC,,2023-05-03,-0.3003466502302892,-0.7843748794561519
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-04-27,0.4401317614849217,0.31458518452576645
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-25,-0.8468437669078466,-0.9953497930763887
+Contract,Unclear,Bachelors,Unclear Seniority,United States,2023-05-23,0.1953811240990202,2.288741633397658
+Full-Time,Unclear,High School,IC,United States,2023-05-30,-0.4489985360295959,0.08526117262003474
+Full-Time,true,Bachelors,IC,United States,2023-04-18,0.15066238276157196,-0.3653958586047586
+Unclear,Unclear,Unclear,Unclear Seniority,Germany,2023-02-23,0.11466740003065712,0.021730398556230022
+Full-Time,Unclear,Unclear,Unclear Seniority,India,2023-04-14,-0.22999433144176917,0.021730398556230022
+Contract,Unclear,Bachelors,Unclear Seniority,United States,2023-05-10,0.1953811240990202,0.39139721068192945
+Full-Time,Unclear,Unclear,Staff IC,United States,2023-02-08,1.0323705659496922,2.1537049793485608
+Full-Time,true,Bachelors,IC,United States,2023-04-28,0.15066238276157196,0.62064178926175
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-04-14,-0.07582341830059793,-1.0156847245096645
+Unclear,Unclear,Bachelors,Senior IC,,2023-01-13,0.48065197866740017,0.021730398556230022
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-22,-0.8468437669078466,-0.896217002339169
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-04-13,-0.03814437915526171,0.7000751151729837
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-09,0.24397590878850628,0.5094351329860227
+Full-Time,false,Bachelors,Unclear Seniority,Mexico,2023-04-20,-0.306708592756524,0.021730398556230022
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-03-31,-0.07582341830059793,-1.047458054874158
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-15,-0.8468437669078466,-0.896217002339169
+Full-Time,Unclear,Masters,Senior IC,Qatar,2023-01-25,-0.3729738031015101,-0.2928414587174377
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-03-28,0.4401317614849217,-1.047458054874158
+Full-Time,true,Bachelors,Manager,,2023-03-31,0.6539441314291171,0.2234751597055814
+Unclear,Unclear,Unclear,Senior IC,India,2023-02-10,-0.2829129514134222,0.021730398556230022
+Unclear,Unclear,No Education Requirement,IC,United States,2023-05-22,-0.12947449021681598,-1.023945790404433
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-03-06,-0.07582341830059793,-1.5200863440459986
+Full-Time,true,Unclear,Unclear Seniority,,2023-05-10,0.08336275567384797,-0.18163480244171054
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-03-13,0.24397590878850628,1.494408374285321
+Full-Time,true,Unclear,Unclear Seniority,Austria,2023-04-27,-0.5865661635511215,-0.7297247512292232
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-04-19,-0.07582341830059793,-0.5657743665484367
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-05-12,0.4376022631939808,-0.491424773495522
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-05-10,0.853143746773787,-0.5708580994067557
+Hourly,Unclear,Unclear,Unclear Seniority,United States,2023-05-18,-0.4526310132788235,-0.9044780682339373
+Full-Time,Unclear,Unclear,Unclear Seniority,,2023-05-17,-0.224372256775447,-0.2449749365233283
+Full-Time,false,Unclear,Unclear Seniority,United Kingdom,2023-04-27,-0.945982743428135,-1.1797304291815445
+Full-Time,false,Unclear,Unclear Seniority,,2023-04-17,-0.15992202918182583,-1.2952900317172071
+Full-Time,Unclear,High School,Manager,United States,2023-05-17,-0.7223608559725008,-0.9953497930763887
+Unclear,Unclear,High School,Unclear Seniority,Canada,2023-06-01,-0.7969559101976501,-0.7904753588861347
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-01-12,-0.8468437669078466,-0.5390847690422622
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-05-11,-0.03814437915526171,0.0630198413648893
+Hourly,Unclear,Unclear,Unclear Seniority,United States,2023-05-09,-0.4526310132788235,-0.9623055294973154
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-01-10,0.06996487757964275,-1.135470179983805
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-04-11,0.4401317614849217,1.176675070640386
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-01-09,-0.07582341830059793,-0.27616046027607866
+Full-Time,true,Bachelors,Senior IC,United States,2023-05-18,0.5487991349210541,0.587676959008588
+Unclear,Unclear,Unclear,Unclear Seniority,,2023-05-04,-0.4487213911302157,-0.8885914030516906
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-05-23,0.4401317614849217,0.4315904735930137
+Full-Time,Unclear,Unclear,Junior IC,United States,2023-05-24,-0.498472432882485,-0.5231981038600155
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-25,-0.8468437669078466,-0.8631727387600958
+Unclear,Unclear,Bachelors,Senior IC,China,2023-05-25,0.16047060183403228,0.021730398556230022
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-04-04,-0.8468437669078466,-0.6072385626741008
+Full-Time,true,Bachelors,Senior IC,United States,2023-04-20,0.5487991349210541,0.2234751597055814
+Unclear,Unclear,High School,Unclear Seniority,United States,2023-05-23,-0.8472021702657349,-1.0315713896919112
+Full-Time,false,Unclear,Director,United States,2023-04-19,1.3126879943469019,1.5023517068764443
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-19,-0.8468437669078466,-0.9623055294973154
+Full-Time,Unclear,Unclear,Manager,United States,2023-05-26,0.12233765098215377,0.37598714545515016
+Grant,Unclear,Bachelors,Manager,United States,2023-06-01,0.18786622534851338,-0.6323871536575973
+Full-Time,Unclear,Unclear,Manager,United States,2023-05-24,0.12233765098215377,0.5809251263061331
+Intern,Unclear,Unclear,Intern,United States,2023-04-17,-0.579196344091002,-0.4996858393902903
+Unclear,Unclear,Bachelors,Manager,United States,2023-05-24,0.3538840425957872,2.161648311939684
+Unclear,Unclear,Bachelors,Senior IC,Canada,2023-02-13,0.2248913707727002,0.29496515302569176
+Full-Time,Unclear,Bachelors,IC,United States,2023-05-10,-0.05993670109270639,0.4776618026215293
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-04-07,0.24397590878850628,1.494408374285321
+Unclear,Unclear,Bachelors,Senior IC,,2023-05-25,0.48065197866740017,0.06460850788311398
+Full-Time,true,Unclear,Junior IC,United States,2023-05-18,-0.05319949163899501,-0.8568180726871971
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-18,-0.07582341830059793,-0.17607446962792417
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-05-15,0.06996487757964275,0.06460850788311398
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-03-15,-0.07582341830059793,-0.491424773495522
+Full-Time,true,Unclear,Senior IC,United States,2023-04-20,0.9183892236139644,1.494408374285321
+Full-Time,false,Unclear,Junior IC,Romania,2023-05-10,-0.5562636004096517,-0.23533173075770453
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-08,0.24397590878850628,0.2182007868650755
+Full-Time,Unclear,Associates,Senior IC,United States,2023-03-13,0.23613900285968722,-0.7297247512292232
+Full-Time,false,Unclear,IC,United States,2023-03-09,0.3982424474783127,-0.7614980815937167
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-02-18,-0.07582341830059793,-0.3509866532844608
+Full-Time,Unclear,Bachelors,Manager,United States,2023-04-26,0.4020596103647615,0.7000751151729837
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-04-25,0.4401317614849217,-0.13294217365812427
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-19,-0.07582341830059793,-0.983911394145171
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-04-05,0.4401317614849217,-0.16574813725946377
+Full-Time,true,Unclear,Unclear Seniority,,2023-05-17,0.08336275567384797,0.62064178926175
+Full-Time,true,Bachelors,Unclear Seniority,,2023-04-17,0.2464566751969823,0.12815516861210094
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-16,-0.9137027807585573,-1.0614383202345352
+Full-Time,Unclear,Bachelors,Contract,Philippines,2023-02-27,0.14965580210896634,-0.59881863012751
+Unclear,Unclear,Bachelors,Unclear Seniority,Philippines,2023-05-03,0.139100689950931,0.021730398556230022
+Full-Time,true,Bachelors,Staff IC,United States,2023-05-31,1.2884134812324766,0.8946867636555063
+Unclear,true,Unclear,Senior IC,United States,2023-01-26,1.0675218546388578,2.1203429824658424
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-04-10,0.4401317614849217,0.7874517736753408
+Full-Time,Unclear,Unclear,Junior IC,Canada,2023-05-24,-0.7093365764928363,-0.7947806451505236
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-04-05,0.853143746773787,0.10432517083873084
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-01-20,-0.8468437669078466,-0.7138380860469764
+Full-Time,Unclear,Bachelors,Manager,United States,2023-05-10,0.4020596103647615,2.2760323012518606
+Unclear,Unclear,Unclear,Senior IC,United States,2023-02-17,0.6987648905759417,0.6603584522173668
+Hourly,Unclear,Some High School,Unclear Seniority,United States,2023-05-03,-0.995020064468958,-0.983911394145171
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-23,0.24397590878850628,0.29496515302569176
+Full-Time,Unclear,Unclear,Unclear Seniority,India,2023-05-16,-0.22999433144176917,0.021730398556230022
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-04-12,0.24397590878850628,0.4458884722570358
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-04-18,-0.03814437915526171,-0.42787811276653503
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-08,0.24397590878850628,-0.5784836986942341
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-04-18,-0.9137027807585573,-1.047458054874158
+Unclear,true,Unclear,IC,United States,2023-04-14,0.2971164810909545,0.986035088453425
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-06-02,-0.07582341830059793,0.18375849674996456
+Full-Time,true,Unclear,Unclear Seniority,United States,2023-05-05,0.4191554814381107,0.5968117914883798
+Full-Time,true,Bachelors,Manager,United States,2023-05-09,0.380358886389715,0.38631347782361053
+Part-Time,Unclear,Some High School,Unclear Seniority,,2023-05-25,-0.35706741610175075,-0.9521380637806776
+Unclear,Unclear,Unclear,Unclear Seniority,Uganda,2023-04-21,-0.00746719179302945,0.021730398556230022
+Full-Time,Unclear,Unclear,Unclear Seniority,United Kingdom,2023-05-05,-0.8197955388977547,0.021730398556230022
+Full-Time,Unclear,Unclear,Senior IC,India,2023-04-28,-0.2836435453059732,-0.3756268709821255
+Full-Time,true,Unclear,Unclear Seniority,United States,2023-02-23,0.4191554814381107,0.9383750929066849
+Full-Time,Unclear,Bachelors,Manager,United States,2023-05-17,0.4020596103647615,-0.29999045804944874
+Full-Time,Unclear,Unclear,Junior IC,United States,2023-05-25,-0.498472432882485,-0.45170811053990517
+Unclear,Unclear,Unclear,Unclear Seniority,,2023-04-03,-0.4487213911302157,0.4697184700304059
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-04-17,0.24397590878850628,0.021730398556230022
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-08,-0.07582341830059793,-0.26106812835294424
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-01-31,-0.03814437915526171,-0.3325581216730546
+Full-Time,true,Bachelors,Unclear Seniority,United States,2023-05-22,0.09348577226159747,0.8589417669954511
+Full-Time,Unclear,Bachelors,Unclear Seniority,,2023-05-24,-0.06518596782227044,0.2903580201228402
+Full-Time,false,Unclear,Unclear Seniority,United States,2023-04-10,0.14906280658454432,-0.9521380637806776
+Full-Time,Unclear,Bachelors,Manager,,2023-05-17,0.48885008940162794,0.021730398556230022
+Unclear,Unclear,Bachelors,Unclear Seniority,,2023-05-26,0.3082159772667634,-0.4046200349397258
+Full-Time,Unclear,Bachelors,Manager,United States,2023-05-17,0.4020596103647615,-0.11808814171272355
+Unclear,Unclear,Unclear,Unclear Seniority,Canada,2023-04-13,-0.2506832984815789,-0.9953497930763887
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-03-31,0.24397590878850628,0.7874517736753408
+Full-Time,Unclear,Doctorate,Senior IC,United States,2023-03-22,0.8622025212485231,0.9224884277244381
+Full-Time,Unclear,Bachelors,Manager,United States,2023-05-12,0.4020596103647615,0.46177513743928256
+Intern,Unclear,Unclear,IC,United States,2023-04-27,0.20457580033236022,-0.4996858393902903
+Gig,Unclear,Unclear,Manager,,2023-06-01,0.8727521590529166,-0.8838254034970165
+Full-Time,Unclear,Bachelors,Manager,United States,2023-05-11,0.4020596103647615,0.07294900710379353
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-16,0.24397590878850628,-0.8479692001806857
+Part-Time,Unclear,Unclear,Unclear Seniority,United States,2023-03-01,-0.9268864555756788,-0.9292612659182422
+Full-Time,Unclear,High School,Manager,United States,2023-05-18,-0.7223608559725008,-0.7970842116019493
+Full-Time,true,Bachelors,IC,United States,2023-05-16,0.15066238276157196,0.1440418337943477
+Full-Time,Unclear,Unclear,Staff IC,United States,2023-04-11,1.0323705659496922,2.590588271860346
+Full-Time,Unclear,Unclear,Unclear Seniority,United Kingdom,2023-05-18,-0.8197955388977547,-0.3802181172197948
+Full-Time,false,Unclear,Unclear Seniority,United States,2023-04-10,0.14906280658454432,0.10432517083873084
+Unclear,Unclear,Unclear,Senior IC,,2023-05-04,-0.17667986764394367,0.021730398556230022
+Full-Time,Unclear,Doctorate,Director,United States,2023-04-21,1.5157589791379629,2.0424983230728335
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-23,-0.9137027807585573,0.021730398556230022
+Full-Time,Unclear,Some High School,Manager,United States,2023-05-23,-0.7312816152709701,-0.7297247512292232
+Unclear,true,Bachelors,Unclear Seniority,United States,2023-03-01,0.324531421762154,-0.9521380637806776
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-05-31,0.853143746773787,-0.8885914030516906
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-04-25,0.24397590878850628,-1.365191358519093
+Unclear,true,Unclear,Unclear Seniority,United States,2023-04-13,0.9373660026560691,2.140995647202763
+Unclear,Unclear,Unclear,Unclear Seniority,India,2023-04-10,0.054764280364189205,0.021730398556230022
+Unclear,true,Bachelors,Senior IC,Bolivia,2023-05-08,0.16264062544642627,0.021730398556230022
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-04-04,0.4401317614849217,2.5349849437224825
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-17,0.24397590878850628,0.6849827832498493
+Full-Time,Unclear,Bachelors,IC,United States,2023-05-23,-0.05993670109270639,-0.5157313712243595
+Full-Time,Unclear,Unclear,Unclear Seniority,,2023-05-30,-0.224372256775447,-0.4119914475842883
+Unclear,true,Unclear,Unclear Seniority,United States,2023-04-04,0.9373660026560691,0.26033222292839386
+Full-Time,Unclear,Unclear,Manager,Canada,2023-05-25,-0.4547725135616484,-1.1427780459676384
+Full-Time,true,Bachelors,IC,United States,2023-05-22,0.15066238276157196,-0.05454148098373659
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-05-24,-0.03814437915526171,0.021730398556230022
+Student,Unclear,Unclear,Unclear Seniority,United Kingdom,2023-05-06,-0.31055777215419517,0.021730398556230022
+Full-Time,Unclear,Bachelors,Manager,United States,2023-05-23,0.4020596103647615,1.7407152312708742
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-02-16,0.24397590878850628,1.9725969962709478
+Full-Time,Unclear,Some High School,IC,United States,2023-02-21,-0.5150916296583169,0.021730398556230022
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-04-07,0.4401317614849217,0.722951913035419
+Full-Time,Unclear,Bachelors,Junior IC,Czech Republic,2023-04-24,-0.6270609830206796,-0.5708580994067557
+Hourly,Unclear,Unclear,Unclear Seniority,United States,2023-05-11,-0.4526310132788235,-0.2848981261263144
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-25,-0.07582341830059793,0.2571548898919445
+Full-Time,Unclear,Bachelors,IC,United States,2023-06-01,-0.05993670109270639,-0.12920880734029627
+Temp,Unclear,High School,Unclear Seniority,United States,2023-05-30,-0.926563611612726,-1.028394056655462
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-25,-0.9137027807585573,-0.9457833977077789
+Contract,Unclear,Masters,Staff IC,United States,2023-04-27,0.9855893379716507,2.4476082852201255
+Full-Time,true,Bachelors,Unclear Seniority,United States,2023-05-16,0.09348577226159747,-0.21340813280620402
+Contract,Unclear,Unclear,Unclear Seniority,United Kingdom,2023-02-28,-0.3789344287888077,0.46177513743928256
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-22,-0.07582341830059793,0.10191039773102933
+Contract,Unclear,Bachelors,Senior IC,United States,2023-05-16,0.40311983995198625,2.176899510514641
+Contract,Unclear,Bachelors,Unclear Seniority,United States,2023-03-28,0.1953811240990202,-1.160571110971755
+Part-Time,false,Unclear,Intern,Hungary,2023-03-02,-0.20039602068368317,-0.43359731223214387
+Full-Time,true,Unclear,IC,United Kingdom,2023-05-16,-1.3660718437498216,-0.76944141418484
+Full-Time,Unclear,Unclear,IC,Colombia,2023-04-24,-0.4623783213782729,0.021730398556230022
+Contract,Unclear,Unclear,Unclear Seniority,United States,2023-02-15,-0.13818938905783557,-0.6153407619170466
+Gig,Unclear,Unclear,IC,Canada,2023-03-22,-0.4522710510282523,-0.301420257915851
+Unclear,Unclear,Unclear,Unclear Seniority,United Kingdom,2023-04-05,-0.18245599545948576,-1.1507213785587618
+Full-Time,true,Bachelors,Unclear Seniority,United States,2023-04-28,0.09348577226159747,1.8915750038414894
+Part-Time,false,Unclear,Chief,Brazil,2023-04-10,-0.11345358700365563,0.021730398556230022
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-23,0.24397590878850628,0.3346818159813086
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-03-31,-0.07582341830059793,-0.7614980815937167
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-04-26,-0.07582341830059793,-1.5184976775277739
+Full-Time,Unclear,Unclear,Unclear Seniority,United Kingdom,2023-05-24,-0.8197955388977547,-0.8885914030516906
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-04-26,0.06996487757964275,-0.9623055294973154
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-05-05,0.06996487757964275,0.2234751597055814
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-04-10,0.24397590878850628,0.08526117262003474
+Full-Time,Unclear,Bachelors,Unclear Seniority,Venezuela,2023-04-26,-0.10748940355412806,0.1996451619322113
+Full-Time,Unclear,No Education Requirement,Senior IC,United States,2023-05-19,0.23613900285968722,0.5014918003948994
+Full-Time,Unclear,Unclear,Manager,United States,2023-04-14,0.12233765098215377,0.06460850788311398
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-31,-0.8468437669078466,-0.896217002339169
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-03-17,0.4401317614849217,0.7795084410842174
+Unclear,Unclear,Unclear,Senior IC,United States,2023-05-18,0.6987648905759417,0.1440418337943477
+Full-Time,Unclear,Unclear,Manager,United States,2023-05-22,0.12233765098215377,-0.7773847467759634
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-03-06,-0.07582341830059793,-0.8631727387600958
+Unclear,Unclear,Some High School,IC,United States,2023-05-09,-1.14197785768305,-0.43359731223214387
+Full-Time,Unclear,Unclear,Senior IC,Australia,2023-03-16,-0.0048611924416181555,0.46177513743928256
+Full-Time,Unclear,Bachelors,Manager,United States,2023-05-03,0.4020596103647615,0.06460850788311398
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-05-01,0.06996487757964275,0.021730398556230022
+Unclear,true,Bachelors,Senior IC,United States,2023-05-18,0.9295299343711564,-0.411006474342989
+Full-Time,true,Unclear,IC,Austria,2023-04-19,-1.0415233450141286,-0.3325581216730546
+Full-Time,Unclear,Bachelors,Senior Manager,United States,2023-04-27,0.6940455821981663,2.590588271860346
+Full-Time,false,Unclear,Unclear Seniority,Romania,2023-05-11,-0.2632291327563458,-0.23533173075770453
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-05-16,0.853143746773787,1.6135583631521713
+Full-Time,Unclear,Vocational,Manager,United States,2023-04-25,-0.08105707750382432,0.3692353127526953
+Full-Time,Unclear,Bachelors,Manager,United States,2023-05-12,0.4020596103647615,0.8589417669954511
+Full-Time,true,Bachelors,Unclear Seniority,United States,2023-05-09,0.09348577226159747,1.2529310635151703
+Full-Time,false,High School,Director,United States,2023-05-22,-0.21679011428666667,-0.6900080882736063
+Unclear,true,Unclear,Senior IC,United States,2023-01-09,1.0675218546388578,1.4229183809652104
+Full-Time,Unclear,Unclear,Unclear Seniority,Italy,2023-03-07,-0.45812778088287404,-0.1339748068949703
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-02-07,0.4376022631939808,2.844774914776294
+Full-Time,Unclear,Some High School,Unclear Seniority,United States,2023-04-18,-0.45371502158140514,-0.896217002339169
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-23,-0.9137027807585573,-0.9953497930763887
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-01-25,0.853143746773787,1.494408374285321
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-05-08,0.4401317614849217,0.2552484900700749
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-04-12,-0.07582341830059793,-0.6992859007400384
+Unclear,true,Unclear,Senior IC,United States,2023-02-28,1.0675218546388578,1.1369584076847692
+Temp,Unclear,High School,IC,United States,2023-05-19,-0.6748011057880027,-0.8885914030516906
+Full-Time,true,Unclear,Unclear Seniority,United States,2023-05-16,0.4191554814381107,-0.29728972496846684
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-05,0.24397590878850628,0.7874517736753408
+Full-Time,Unclear,Unclear,Staff IC,United States,2023-02-07,1.0323705659496922,1.176675070640386
+Full-Time,true,Bachelors,Unclear Seniority,United States,2023-05-26,0.09348577226159747,-1.3428388206076718
+Full-Time,Unclear,Unclear,IC,United States,2023-01-23,0.28533417927153853,-0.34050145426417794
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-01-12,-0.07582341830059793,0.6690961180676025
+Full-Time,Unclear,Unclear,Manager,United States,2023-01-18,0.12233765098215377,1.2719950617338665
+Full-Time,true,Unclear,Manager,United States,2023-05-08,0.350076857992062,0.46177513743928256
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-31,-0.9137027807585573,-0.9953497930763887
+Full-Time,Unclear,Some High School,Unclear Seniority,United States,2023-04-22,-0.45371502158140514,-0.491424773495522
+Full-Time,true,Unclear,Unclear Seniority,India,2023-03-08,-0.17490944343303624,4.84590692112764
+Full-Time,true,Bachelors,Senior IC,Macao,2023-05-03,-0.3168179400871345,0.6365284544439967
+Unclear,false,Bachelors,Unclear Seniority,United States,2023-05-23,0.23967543019012902,0.7795084410842174
+Full-Time,Unclear,High School,Manager,United States,2023-04-26,-0.7223608559725008,-0.8488747400960737
+Unclear,Unclear,Unclear,Unclear Seniority,Canada,2023-05-16,-0.2506832984815789,-0.9127391341287057
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-25,-0.8468437669078466,-1.0315713896919112
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-04-13,-0.07582341830059793,-0.27585861363761593
+Full-Time,true,Unclear,Unclear Seniority,United States,2023-03-20,0.4191554814381107,0.323052777067904
+Full-Time,Unclear,Unclear,Junior IC,United States,2023-05-25,-0.498472432882485,-0.45170811053990517
+Full-Time,Unclear,Bachelors,Manager,United States,2023-03-29,0.4020596103647615,-0.2531247957618209
+Full-Time,Unclear,Bachelors,Unclear Seniority,,2023-04-22,-0.06518596782227044,0.2234751597055814
+Trainee,Unclear,Unclear,Manager,,2023-05-10,0.8727521590529166,-0.06248481357485996
+Unclear,Unclear,Unclear,Manager,United States,2023-05-02,0.9806524040689837,1.5341250372409376
+Full-Time,Unclear,Bachelors,Manager,United States,2023-05-01,0.4020596103647615,1.4117977153376378
+Unclear,Unclear,Unclear,Unclear Seniority,United Kingdom,2023-05-26,-0.18245599545948576,-0.8930873292982664
+Full-Time,Unclear,Bachelors,Junior IC,Uganda,2023-04-24,-0.6270609830206796,-0.5708580994067557
+Unclear,Unclear,Bachelors,IC,United States,2023-01-19,-0.16758737617286013,-0.022768150619243102
+Full-Time,true,Unclear,IC,United States,2023-04-20,0.15466607020627582,0.021730398556230022
+Full-Time,true,Bachelors,Manager,United States,2023-05-12,0.380358886389715,0.7397917781286005
+Unclear,Unclear,Bachelors,Unclear Seniority,China,2023-05-19,0.17060639465162128,0.021730398556230022
+Full-Time,Unclear,Some High School,Unclear Seniority,United States,2023-02-17,-0.45371502158140514,2.113988316392944
+Full-Time,false,Unclear,Unclear Seniority,United States,2023-04-28,0.14906280658454432,-0.013236151509895057
+Full-Time,true,Bachelors,Senior IC,United States,2023-05-08,0.5487991349210541,0.9701484232711783
+Full-Time,Unclear,Unclear,Manager,United States,2023-03-30,0.12233765098215377,0.8589417669954511
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-24,-0.8468437669078466,-0.9292612659182422
+Full-Time,false,Unclear,Unclear Seniority,,2023-02-24,-0.15992202918182583,-0.43359731223214387
+Unclear,Unclear,Unclear,Senior IC,United States,2023-03-22,0.6987648905759417,1.3752583854184703
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-18,0.24397590878850628,1.2418103978875976
+Part-Time,Unclear,Unclear,IC,United States,2023-04-05,-0.8918829737997676,0.021730398556230022
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-05-30,0.853143746773787,1.089695578767585
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-04-25,-0.07582341830059793,-0.22929479798845076
+Hourly,Unclear,Bachelors,Unclear Seniority,United States,2023-01-09,-0.5319594247617437,-0.6312274270992934
+Full-Time,Unclear,Some High School,Unclear Seniority,United States,2023-05-11,-0.45371502158140514,-1.5081713451593135
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-03-09,-0.03814437915526171,0.6071381238568403
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-19,-0.8468437669078466,-0.6649071572856564
+Full-Time,Unclear,Associates,IC,United States,2023-04-28,-0.0882927079494736,-0.6929947813278686
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-01-09,-0.8468437669078466,-0.9521380637806776
+Full-Time,Unclear,Unclear,Senior IC,Canada,2023-04-05,-0.4576885754143632,-0.8631727387600958
+Full-Time,Unclear,Bachelors,IC,United States,2023-05-25,-0.05993670109270639,-1.2952900317172071
+Full-Time,Unclear,Unclear,Intern,United States,2023-05-24,-0.5657996401627772,-0.3325581216730546
+Temp,Unclear,Doctorate,Unclear Seniority,United States,2023-05-15,-0.43553434919421247,0.04395584314619322
+Full-Time,true,Bachelors,IC,United States,2023-03-27,0.15066238276157196,1.6532750261077882
+Full-Time,Unclear,Unclear,Manager,United States,2023-04-18,0.12233765098215377,0.7364396917751465
+Full-Time,false,Bachelors,Senior IC,India,2023-02-15,-0.2723840242698349,0.021730398556230022
+Full-Time,Unclear,Bachelors,Manager,United States,2023-04-20,0.4020596103647615,0.7842744406388914
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-02-07,0.24397590878850628,0.7278767792419155
+Unclear,Unclear,Bachelors,IC,United States,2023-05-23,-0.16758737617286013,0.032835177518620494
+Full-Time,false,Unclear,Unclear Seniority,India,2023-03-27,-0.04944366014009566,0.021730398556230022
+Full-Time,true,Unclear,Unclear Seniority,Argentina,2023-05-02,-0.1721026260606628,0.021730398556230022
+Unclear,Unclear,Bachelors,Manager,,2023-05-27,0.7043758907616435,-0.5035780723599408
+Full-Time,Unclear,Vocational,Unclear Seniority,United States,2023-05-30,-0.05419711514393182,-0.7535547490025932
+Full-Time,true,Bachelors,Senior IC,,2023-04-18,0.07483326599039256,0.6047551240795033
+Full-Time,Unclear,Doctorate,Manager,United States,2023-04-10,0.6624072536978395,0.46177513743928256
+Full-Time,Unclear,Unclear,Senior IC,United Kingdom,2023-05-09,-0.6531176460503587,-0.8727047378694438
+Full-Time,Unclear,High School,Senior IC,Cuba,2023-05-25,-0.35772824816154,-0.8250447423227036
+Full-Time,Unclear,Vocational,Unclear Seniority,United States,2023-05-17,-0.05419711514393182,-0.5819787650343284
+Unclear,Unclear,Bachelors,Senior IC,China,2023-04-26,0.16047060183403228,0.021730398556230022
+Unclear,Unclear,High School,Unclear Seniority,United States,2023-03-30,-0.8472021702657349,-0.7957656183918228
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-05-03,0.06996487757964275,-0.4996858393902903
+Full-Time,Unclear,Doctorate,Staff IC,United States,2023-05-22,1.4577801829096468,1.176675070640386
+Full-Time,Unclear,Doctorate,Unclear Seniority,,2023-01-04,0.014347867873636929,1.0178084188179186
+Full-Time,true,Doctorate,Unclear Seniority,United States,2023-01-08,0.7970895410650648,1.0178084188179186
+Full-Time,Unclear,Unclear,Intern,United States,2023-05-31,-0.5657996401627772,0.021730398556230022
+Intern,Unclear,High School,Intern,United States,2023-04-18,-0.6722451322037557,-0.7614980815937167
+Full-Time,true,Unclear,Unclear Seniority,Canada,2023-06-02,0.043033466020587524,0.024891844927497124
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-04,-0.07582341830059793,0.9383750929066849
+Unclear,Unclear,Bachelors,Manager,,2023-04-26,0.7043758907616435,0.021730398556230022
+Unclear,Unclear,Masters,Unclear Seniority,,2023-06-01,-0.24288802350940297,-0.8409314075049503
+Unclear,true,Unclear,Senior IC,United States,2023-03-15,1.0675218546388578,0.7000751151729837
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-05-09,0.853143746773787,1.5261817046498143
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-30,-0.8468437669078466,-0.896217002339169
+Unclear,Unclear,Unclear,Unclear Seniority,Canada,2023-05-30,-0.2506832984815789,-1.1427780459676384
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-04-10,-0.07582341830059793,-0.1895781350328339
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-05-16,-0.03814437915526171,-0.45170811053990517
+Unclear,Unclear,Bachelors,Senior IC,United States,2023-04-28,0.7305817280988962,0.021730398556230022
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-05-15,0.4401317614849217,0.8192251040398343
+Full-Time,Unclear,Unclear,Junior IC,United States,2023-05-17,-0.498472432882485,-0.45170811053990517
+Temp,Unclear,High School,Unclear Seniority,United States,2023-05-31,-0.926563611612726,-0.9292612659182422
+Full-Time,Unclear,High School,Manager,United States,2023-05-19,-0.7223608559725008,-0.896217002339169
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-24,-0.8468437669078466,-1.0156847245096645
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-25,-0.8468437669078466,-0.8631727387600958
+Hourly,Unclear,Unclear,Unclear Seniority,United States,2023-05-01,-0.4526310132788235,-1.0315713896919112
+Unclear,true,Bachelors,Unclear Seniority,United States,2023-05-14,0.324531421762154,-0.03865481580148985
+Full-Time,false,Bachelors,Unclear Seniority,United States,2023-05-17,-0.01981310386197188,-0.9521380637806776
+Full-Time,Unclear,Unclear,Unclear Seniority,United Kingdom,2023-04-05,-0.8197955388977547,0.7477351107197239
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-01-17,0.24397590878850628,0.8986584299510679
+Unclear,Unclear,Unclear,Senior IC,China,2023-06-01,-0.27429918251360996,0.021730398556230022
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-26,-0.9137027807585573,-0.7970842116019493
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-06-02,-0.07582341830059793,-0.21340813280620402
+Full-Time,Unclear,High School,Junior IC,United States,2023-05-24,-0.5619653257891613,-0.5231981038600155
+Unclear,Unclear,Bachelors,Director,,2023-03-06,0.6480213778572349,0.021730398556230022
+Hourly,Unclear,Unclear,Unclear Seniority,United States,2023-05-18,-0.4526310132788235,-1.0315713896919112
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-02-20,0.06996487757964275,-0.9276090527392886
+Intern,Unclear,Unclear,Intern,United States,2023-02-21,-0.579196344091002,-0.7438956565717872
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-04-30,0.24397590878850628,-0.4596514431310285
+Full-Time,Unclear,Bachelors,IC,United States,2023-05-02,-0.05993670109270639,0.3473593747967415
+Full-Time,false,Bachelors,Staff IC,United States,2023-04-12,0.8874571571525177,0.3108518182079385
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-29,-0.8468437669078466,-0.9292612659182422
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-15,0.24397590878850628,-0.16574813725946377
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-04-11,0.24397590878850628,0.005827846708801034
+Full-Time,Unclear,Bachelors,Staff IC,,2023-04-26,0.2588375047683496,-0.4060180614757635
+Full-Time,Unclear,Unclear,Unclear Seniority,Austria,2023-05-15,-0.8513551624101893,-0.7996260780311089
+Commission,Unclear,Unclear,Unclear Seniority,Austria,2023-05-22,-0.6969506174613055,-1.5081713451593135
+Full-Time,Unclear,Bachelors,Manager,Canada,2023-05-23,-0.07216144050814233,-0.04697942835698714
+Unclear,true,Unclear,Manager,United States,2023-05-25,0.9640506265562007,0.8605304335136758
+Full-Time,Unclear,High School,Manager,United States,2023-05-26,-0.7223608559725008,-0.9292612659182422
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-31,-0.8468437669078466,-0.8235196224652079
+Full-Time,Unclear,Bachelors,Manager,United States,2023-04-20,0.4020596103647615,0.18375849674996456
+Full-Time,Unclear,Bachelors,Manager,United States,2023-05-31,0.4020596103647615,1.9725969962709478
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-03-13,0.24397590878850628,-0.24041546361602348
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-22,-0.9137027807585573,-0.983911394145171
+Full-Time,Unclear,Unclear,Unclear Seniority,Netherlands,2023-02-24,-0.45812778088287404,-0.9330740655619815
+Unclear,true,Bachelors,Senior IC,United States,2023-03-17,0.9295299343711564,1.0972417447291523
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-05-22,0.4401317614849217,1.494408374285321
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-26,0.24397590878850628,0.052693508996428925
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-03-24,0.4376022631939808,-0.9623055294973154
+Unclear,Unclear,Bachelors,Unclear Seniority,Austria,2023-03-07,-0.4506166087815457,-0.801437157861885
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-05-26,0.4376022631939808,0.9383750929066849
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-05-15,0.853143746773787,1.2106407608000296
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-04-13,0.24397590878850628,-0.3325581216730546
+Unclear,Unclear,Unclear,IC,United States,2023-05-26,0.3139426851349468,-1.365191358519093
+Full-Time,Unclear,Unclear,Manager,United States,2023-05-09,0.12233765098215377,-0.2531247957618209
+Unclear,true,Unclear,Senior IC,United States,2023-02-22,1.0675218546388578,1.0178084188179186
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-05-08,0.4376022631939808,0.5929513318490939
+Full-Time,true,Unclear,Senior IC,United States,2023-05-17,0.9183892236139644,0.5968117914883798
+Full-Time,Unclear,Unclear,Junior IC,United States,2023-04-26,-0.498472432882485,-0.4119914475842883
+Full-Time,true,Unclear,Staff IC,United States,2023-04-12,1.38257151477102,1.1687317380492626
+Intern,Unclear,Unclear,Intern,United States,2023-05-01,-0.579196344091002,-0.4996858393902903
+Full-Time,Unclear,Bachelors,Chief,United States,2023-04-04,1.5375908182330822,1.0511704157006367
+Hourly,Unclear,Some High School,Unclear Seniority,United States,2023-05-31,-0.995020064468958,-0.8468094736223817
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-22,-0.07582341830059793,-0.223257865219197
+Full-Time,Unclear,Bachelors,Manager,United States,2023-05-26,0.4020596103647615,0.8851547645461583
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-17,-0.9137027807585573,-0.9680247289629242
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-30,-0.9137027807585573,-1.1275268473926816
+Full-Time,Unclear,Masters,Staff IC,United States,2023-05-09,0.9266810686788417,0.7461464442014992
+Full-Time,true,Bachelors,IC,United States,2023-04-26,0.15066238276157196,-0.05454148098373659
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-02-13,0.24397590878850628,0.10432517083873084
+Full-Time,true,Unclear,Unclear Seniority,United States,2023-01-04,0.4191554814381107,-0.42787811276653503
+Full-Time,Unclear,Unclear,Senior IC,Netherlands,2023-05-31,-0.4094178495045159,0.021730398556230022
+Full-Time,Unclear,Unclear,Unclear Seniority,Australia,2023-05-12,-0.08407016666299595,-0.3128904301774331
+Full-Time,false,Unclear,Unclear Seniority,India,2023-03-27,-0.04944366014009566,0.021730398556230022
+Full-Time,Unclear,Unclear,Unclear Seniority,Iceland,2023-03-07,-0.45812778088287404,-0.1339748068949703
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-15,-0.8468437669078466,-0.9623055294973154
+Full-Time,Unclear,Unclear,Unclear Seniority,United Kingdom,2023-05-17,-0.8197955388977547,-0.9044780682339373
+Part-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-16,-0.9268864555756788,-0.8568180726871971
+Full-Time,false,Bachelors,Staff IC,United States,2023-05-01,0.8874571571525177,2.0512359889230694
+Full-Time,Unclear,Unclear,Senior IC,India,2023-03-02,-0.2836435453059732,0.021730398556230022
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-03-10,0.4376022631939808,-0.45011944402168047
+Full-Time,Unclear,Unclear,IC,United States,2023-03-21,0.28533417927153853,6.419274580781811
+Part-Time,Unclear,High School,Exec,United States,2023-05-19,-0.7037733384741256,-0.7599094150754919
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-23,-0.8468437669078466,-0.9457833977077789
+Full-Time,Unclear,High School,Unclear Seniority,Canada,2023-04-28,-0.8126002081458611,-0.7666930211083113
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-04-12,-0.07582341830059793,0.46177513743928256
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-03-30,-0.07582341830059793,0.08591252589250686
+Full-Time,Unclear,Unclear,Unclear Seniority,India,2023-05-05,-0.22999433144176917,0.021730398556230022
+Full-Time,true,Unclear,Staff IC,United States,2023-03-22,1.38257151477102,0.62064178926175
+Full-Time,true,Unclear,Unclear Seniority,Romania,2023-05-04,-0.16326344148350821,0.021730398556230022
+Full-Time,Unclear,Some High School,Unclear Seniority,United States,2023-04-27,-0.45371502158140514,-0.6404416929049964
+Full-Time,Unclear,Unclear,Manager,United States,2023-05-01,0.12233765098215377,0.5332651307593929
+Unclear,Unclear,Bachelors,Senior IC,,2023-04-27,0.48065197866740017,0.5420027966096286
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-15,0.24397590878850628,0.03750585708220104
+Unclear,true,Bachelors,Staff IC,United States,2023-05-08,0.7880755212925329,0.70563544798677
+Unclear,Unclear,Bachelors,Unclear Seniority,,2023-05-17,0.3082159772667634,0.021730398556230022
+Unclear,true,Bachelors,IC,United States,2023-04-24,0.2952796786328985,-0.3643314520375481
+Full-Time,true,Unclear,Manager,United States,2023-05-17,0.350076857992062,3.7105981672087416
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-04-18,-0.07582341830059793,-0.8727047378694438
+Full-Time,Unclear,Bachelors,IC,,2023-04-28,-0.3003466502302892,-0.6622064242046745
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-02-13,-0.03814437915526171,0.021730398556230022
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-12,-0.07582341830059793,-1.5161146777504368
+Full-Time,true,Bachelors,Unclear Seniority,United States,2023-05-16,0.09348577226159747,0.4697184700304059
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-31,-0.8468437669078466,-0.9623055294973154
+Full-Time,Unclear,Bachelors,IC,United States,2023-05-12,-0.05993670109270639,0.18375849674996456
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-01-05,0.06996487757964275,-0.46435389602497357
+Full-Time,true,Bachelors,Contract,Netherlands,2023-01-19,-0.02576864121292555,-0.5708580994067557
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-01-10,-0.07582341830059793,-1.5081713451593135
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-30,-0.8468437669078466,-0.1578048046683404
+Full-Time,Unclear,Bachelors,Manager,United States,2023-05-30,0.4020596103647615,-0.04659814839261322
+Unclear,Unclear,Unclear,Senior IC,United States,2023-04-04,0.6987648905759417,0.12815516861210094
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-17,0.24397590878850628,-1.3480337601222663
+Full-Time,Unclear,High School,Manager,,2023-05-31,-0.5949227276239578,-0.9044780682339373
+Contract,Unclear,Bachelors,Senior IC,United States,2023-05-15,0.40311983995198625,0.12021183602097758
+Full-Time,true,Bachelors,Senior IC,United States,2023-05-15,0.5487991349210541,-0.05454148098373659
+Full-Time,true,Bachelors,Manager,United States,2023-03-22,0.380358886389715,-0.05454148098373659
+Full-Time,Unclear,Unclear,Unclear Seniority,United Kingdom,2023-01-30,-0.8197955388977547,-0.9124214008250607
+Intern,Unclear,Unclear,Intern,United States,2023-04-17,-0.579196344091002,-0.4996858393902903
+Full-Time,true,Unclear,Staff IC,United States,2023-04-12,1.38257151477102,0.8946867636555063
+Unclear,Unclear,Bachelors,Senior IC,United States,2023-04-12,0.7305817280988962,-1.360314152308143
+Hourly,Unclear,Unclear,Senior IC,United States,2023-05-18,0.11186502571235069,0.2234751597055814
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-05-30,0.4376022631939808,1.0336950840001653
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-04-26,-0.07582341830059793,0.021730398556230022
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-03-20,0.4401317614849217,1.454691711329704
+Full-Time,Unclear,Doctorate,Unclear Seniority,United States,2023-04-19,0.3924380905079343,0.2552484900700749
+Unclear,Unclear,Unclear,Director,United States,2023-05-08,1.1424483511046473,-0.17369146985058714
+Full-Time,false,Unclear,Unclear Seniority,Brazil,2023-02-08,-0.3864664577436274,-0.9521380637806776
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-02-08,0.24397590878850628,-0.014824818028119732
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-03-27,-0.8468437669078466,-0.9521380637806776
+Full-Time,Unclear,Unclear,Chief,United States,2023-05-30,1.209770674042792,1.3474567213495385
+Full-Time,true,Unclear,Unclear Seniority,Colombia,2023-05-24,-0.1721026260606628,-0.9608121829701842
+Unclear,Unclear,Bachelors,Senior IC,United States,2023-05-26,0.7305817280988962,-1.365191358519093
+Full-Time,Unclear,Unclear,Unclear Seniority,,2023-03-29,-0.224372256775447,-0.9044780682339373
+Full-Time,false,Unclear,IC,United States,2023-05-05,0.3982424474783127,-0.23962113035691113
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-25,0.24397590878850628,-0.2848981261263144
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-02-27,0.853143746773787,0.7000751151729837
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-05-18,0.4401317614849217,0.5467687961643026
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-05-17,0.06996487757964275,-0.37116271806591417
+Unclear,Unclear,Unclear,Unclear Seniority,United Kingdom,2023-05-25,-0.18245599545948576,-0.8965347356428139
+Full-Time,true,Bachelors,Senior IC,United States,2023-05-23,0.5487991349210541,0.5051457333868161
+Unclear,true,Unclear,Manager,France,2023-04-13,0.4351049342647011,0.021730398556230022
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-05-10,0.4376022631939808,0.8589417669954511
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-12,0.24397590878850628,0.4767086027105945
+Grant,Unclear,High School,Unclear Seniority,United States,2023-04-28,-0.8085181019073405,-0.7297247512292232
+Full-Time,true,Unclear,Senior IC,United States,2023-05-02,0.9183892236139644,-0.09425814393935344
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-01-17,0.4401317614849217,0.7318484455374772
+Full-Time,true,High School,Unclear Seniority,United States,2023-05-22,-0.48657685866759764,-0.896217002339169
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-24,-0.8468437669078466,3.4325815265194235
+Unclear,true,Bachelors,Unclear Seniority,United States,2023-04-27,0.324531421762154,-1.3476365934927101
+Full-Time,Unclear,Bachelors,IC,United States,2023-05-28,-0.05993670109270639,-0.5073114386777687
+Unclear,Unclear,Bachelors,Senior IC,United States,2023-01-26,0.7305817280988962,0.771565108493094
+Full-Time,false,Unclear,Unclear Seniority,Brazil,2023-01-16,-0.3864664577436274,0.021730398556230022
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-15,-0.9137027807585573,-0.8885914030516906
+Full-Time,false,Bachelors,Exec,Romania,2023-05-08,-0.051366646891089524,-0.23533173075770453
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-16,-0.07582341830059793,-0.09425814393935344
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-06-02,0.4376022631939808,-0.491424773495522
+Unclear,Unclear,Unclear,Senior IC,,2023-05-26,-0.17667986764394367,-0.5907164308845642
+Full-Time,Unclear,Some High School,Junior IC,United States,2023-05-24,-0.6013098274822722,-0.3174657897499202
+Unclear,Unclear,Unclear,IC,,2023-02-16,-0.2132636454495749,0.021730398556230022
+Unclear,true,Bachelors,Unclear Seniority,United States,2023-05-16,0.324531421762154,1.0654684143646587
+Full-Time,Unclear,High School,Exec,United States,2023-05-23,-0.42480266459805527,-0.9292612659182422
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-30,-0.8468437669078466,-0.9292612659182422
+Full-Time,Unclear,Some High School,Unclear Seniority,United States,2023-05-31,-0.45371502158140514,-0.9474356108867326
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-12,-0.9137027807585573,-0.9623055294973154
+Full-Time,true,Unclear,Unclear Seniority,Denmark,2023-05-13,-0.1721026260606628,0.021730398556230022
+Full-Time,true,Bachelors,Senior IC,United States,2023-02-08,0.5487991349210541,0.8081044384122615
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-02-21,0.4376022631939808,-0.09425814393935344
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-24,-0.07582341830059793,0.5477219960752374
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-03-22,0.24397590878850628,-0.5687451729375169
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-22,-0.8468437669078466,-0.8418846074158851
+Unclear,Unclear,Unclear,Unclear Seniority,,2023-05-24,-0.4487213911302157,-0.8091580771404568
+Full-Time,Unclear,Unclear,Manager,United States,2023-05-09,0.12233765098215377,-0.24319563002291666
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-05-05,0.853143746773787,0.5539177954963137
+Part-Time,true,High School,Unclear Seniority,United States,2023-05-22,-0.9021768850992616,-1.0614383202345352
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-05-18,0.853143746773787,2.025022991372362
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-03-13,-0.07582341830059793,-0.8250447423227036
+Unclear,Unclear,Unclear,Senior IC,China,2023-04-26,-0.27429918251360996,0.021730398556230022
+Full-Time,false,Masters,Unclear Seniority,India,2023-01-12,0.10376425633306739,0.021730398556230022
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-01-11,0.24397590878850628,0.9385657328888718
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-04-18,-0.8468437669078466,-0.9362513985984308
+Unclear,false,Unclear,Senior IC,United States,2023-05-10,0.8343681297272206,1.5738417001965546
+Full-Time,Unclear,Bachelors,Manager,United States,2023-03-06,0.4020596103647615,0.06460850788311398
+Full-Time,false,Bachelors,Unclear Seniority,United States,2023-03-28,-0.01981310386197188,0.46177513743928256
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-03-29,-0.07582341830059793,-0.38816144981091816
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-31,-0.07582341830059793,0.7000751151729837
+Unclear,Unclear,Bachelors,Unclear Seniority,China,2023-06-01,0.17060639465162128,0.021730398556230022
+Full-Time,Unclear,Bachelors,Junior IC,United States,2023-04-24,-0.30723990754398345,-0.5708580994067557
+Full-Time,Unclear,Unclear,IC,United States,2023-05-02,0.28533417927153853,0.5742527269295895
+Full-Time,false,Unclear,Unclear Seniority,United States,2023-05-16,0.14906280658454432,-0.0783714787571067
+Full-Time,Unclear,Unclear,IC,United States,2023-06-02,0.28533417927153853,-0.6446516591782918
+Full-Time,Unclear,Doctorate,IC,United States,2023-03-27,0.5409805529616702,-0.31508278997258315
+Contract,Unclear,Unclear,Unclear Seniority,,2023-01-31,-0.4211365057345174,-0.7862495059476571
+Full-Time,Unclear,Bachelors,Manager,United States,2023-02-09,0.4020596103647615,-0.3927368093834052
+Full-Time,Unclear,Doctorate,Staff IC,United States,2023-04-05,1.4577801829096468,-0.5231981038600155
+Full-Time,false,Bachelors,IC,China,2023-03-29,-0.4487023028031793,-0.43359731223214387
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-05-24,0.4401317614849217,0.18375849674996456
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-17,-0.9137027807585573,-1.028394056655462
+Full-Time,Unclear,Unclear,IC,United Kingdom,2023-04-27,-0.9594590193389158,-1.0077413919185412
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-04-24,0.24397590878850628,0.20758849452333467
+Full-Time,Unclear,High School,IC,United States,2023-04-05,-0.4489985360295959,0.28225582087989437
+Full-Time,true,Bachelors,Senior IC,United States,2023-05-09,0.5487991349210541,0.279078487843445
+Full-Time,Unclear,High School,IC,United States,2023-05-08,-0.4489985360295959,-0.17369146985058714
+Full-Time,Unclear,Masters,Manager,United States,2023-03-09,-0.05221553717336804,0.9383750929066849
+Full-Time,Unclear,Bachelors,IC,United States,2023-04-04,-0.05993670109270639,0.342625148572432
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-25,-0.8468437669078466,-0.9292612659182422
+Unclear,Unclear,Unclear,IC,United States,2023-04-28,0.3139426851349468,0.8192251040398343
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-31,-0.9137027807585573,-0.6979514208647296
+Unclear,true,Unclear,IC,,2023-03-08,0.20500383649743562,-0.5708580994067557
+Unclear,Unclear,Unclear,Unclear Seniority,,2023-03-11,-0.4487213911302157,0.4300018070747891
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-04-17,0.06996487757964275,0.2274468260011431
+Full-Time,Unclear,Unclear,IC,United States,2023-05-15,0.28533417927153853,-0.2277061314702261
+Unclear,Unclear,High School,Senior IC,United States,2023-05-19,-0.5537667078083013,0.6615181787756709
+Full-Time,false,Unclear,Unclear Seniority,Austria,2023-02-28,-0.784770687527643,-1.1031249296727506
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-05-16,-0.03814437915526171,-1.5238991436897378
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-06-02,0.4401317614849217,-0.13313281364031124
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-01-17,-0.07582341830059793,-0.3246147890819312
+Full-Time,false,Unclear,Unclear Seniority,United States,2023-05-23,0.14906280658454432,0.3029084856168151
+Full-Time,true,Unclear,Unclear Seniority,United States,2023-05-10,0.4191554814381107,0.4220584744836657
+Full-Time,Unclear,Bachelors,Junior IC,United States,2023-04-24,-0.30723990754398345,-0.5708580994067557
+Hourly,Unclear,Unclear,IC,United States,2023-03-01,-0.16211446435508758,-0.8568180726871971
+Part-Time,Unclear,High School,Manager,United States,2023-05-16,-0.8388113381211014,-0.896217002339169
+Unclear,Unclear,Unclear,Senior IC,United States,2023-05-05,0.6987648905759417,1.3085343916530339
+Full-Time,Unclear,Unclear,IC,United States,2023-05-16,0.28533417927153853,-0.12920880734029627
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-04-19,0.4401317614849217,0.7874517736753408
+Full-Time,Unclear,Unclear,Junior IC,United States,2023-05-15,-0.498472432882485,-0.8796948705496324
+Full-Time,Unclear,Some High School,Unclear Seniority,United States,2023-05-30,-0.45371502158140514,-1.028394056655462
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-04-10,0.24397590878850628,-0.2531247957618209
+Full-Time,true,Associates,Unclear Seniority,United States,2023-05-16,0.613327440402643,0.026480511445721798
+Grant,Unclear,Doctorate,Unclear Seniority,United States,2023-05-17,0.08560860615739015,-0.5867447645890025
+Full-Time,Unclear,Unclear,Staff IC,United States,2023-04-27,1.0323705659496922,0.021730398556230022
+Full-Time,Unclear,Unclear,Unclear Seniority,,2023-04-13,-0.224372256775447,-0.09425814393935344
+Full-Time,Unclear,High School,IC,United States,2023-05-25,-0.4489985360295959,-0.247659782939128
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-23,0.24397590878850628,-0.19752146762395728
+Full-Time,true,Unclear,Unclear Seniority,United States,2023-05-18,0.4191554814381107,0.46177513743928256
+Hourly,Unclear,Bachelors,Junior IC,United States,2023-05-24,-0.7065296830964916,-0.5708580994067557
+Full-Time,Unclear,Unclear,Unclear Seniority,South Africa,2023-03-07,-0.45812778088287404,-0.597341170265561
+Intern,false,Unclear,Intern,Lithuania,2023-05-18,-0.12020754158992114,-1.2762260334985112
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-06-02,-0.07582341830059793,0.24730515747895152
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-05-12,0.4376022631939808,-0.5708580994067557
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-16,-0.8468437669078466,-1.0156847245096645
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-03-23,-0.03814437915526171,-0.3722747846286714
+Full-Time,true,Bachelors,IC,United States,2023-02-10,0.15066238276157196,-1.1275268473926816
+Contract,Unclear,Bachelors,IC,Philippines,2023-05-12,-0.2754532862618997,-1.0554013874652814
+Full-Time,false,Unclear,Unclear Seniority,Austria,2023-02-17,-0.784770687527643,0.26033222292839386
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-02-08,-0.07582341830059793,0.28702182043456836
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-03-07,-0.07582341830059793,-0.2531247957618209
+Full-Time,false,Unclear,IC,United States,2023-03-09,0.3982424474783127,0.9780917558623017
+Full-Time,true,Unclear,Unclear Seniority,United States,2023-05-19,0.4191554814381107,-1.5200863440459986
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-04-21,-0.07582341830059793,0.46177513743928256
+Hourly,Unclear,Unclear,Senior IC,United Kingdom,2023-02-16,-0.6215782409400417,0.06460850788311398
+Unclear,Unclear,Bachelors,IC,United States,2023-04-27,-0.16758737617286013,0.4458884722570358
+Full-Time,false,Unclear,Unclear Seniority,Japan,2023-03-16,-0.32310063920612814,-1.071589899285991
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-31,-0.8468437669078466,-1.086539251222485
+Full-Time,Unclear,Some High School,Unclear Seniority,United States,2023-05-08,-0.45371502158140514,1.494408374285321
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-05-22,0.4376022631939808,0.3108518182079385
+Full-Time,Unclear,Unclear,Staff IC,United States,2023-04-10,1.0323705659496922,0.5555064620145383
+Full-Time,true,Bachelors,Senior IC,United States,2023-03-28,0.5487991349210541,0.505463466690461
+Full-Time,Unclear,Unclear,Manager,United States,2023-06-02,0.12233765098215377,-0.2531247957618209
+Full-Time,false,Unclear,Unclear Seniority,China,2023-04-12,-0.305152007118836,-0.43359731223214387
+Part-Time,Unclear,Bachelors,Senior IC,United States,2023-05-31,-0.19209434864492167,0.6714791178449395
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-04-13,0.24397590878850628,-0.6495765253847884
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-03-24,-0.07582341830059793,0.2552484900700749
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-04-13,0.24397590878850628,0.4220584744836657
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-04-18,-0.8468437669078466,-0.5708580994067557
+Full-Time,Unclear,Bachelors,IC,United States,2023-04-26,-0.05993670109270639,0.4220584744836657
+Full-Time,false,Unclear,Unclear Seniority,Serbia,2023-03-24,-0.32310063920612814,-0.301420257915851
+Intern,Unclear,Bachelors,Intern,United States,2023-05-23,-0.7519137785083377,0.29337648650746706
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-03-31,-0.07582341830059793,0.62064178926175
+Temp,Unclear,Some High School,Unclear Seniority,United States,2023-01-30,-1.1665926993789277,-0.8796948705496324
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-01-26,0.24397590878850628,0.06460850788311398
+Full-Time,false,Unclear,Unclear Seniority,Brazil,2023-05-04,-0.3864664577436274,-0.6661780905002361
+Unclear,Unclear,High School,Unclear Seniority,United States,2023-04-12,-0.8472021702657349,-0.7297247512292232
+Full-Time,Unclear,Bachelors,Junior IC,India,2023-04-24,-0.6139632026357663,-1.5125878380799782
+Full-Time,Unclear,Bachelors,Manager,United States,2023-05-26,0.4020596103647615,-0.460842943019697
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-02-05,0.24397590878850628,-0.24785042292131496
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-17,0.24397590878850628,0.7350257785739265
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-02-02,0.853143746773787,0.7064297812458824
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-05-02,0.853143746773787,0.7520245103189306
+Contract,Unclear,Masters,Unclear Seniority,,2023-05-01,0.02417773170529844,0.021730398556230022
+Hourly,Unclear,Masters,Unclear Seniority,United Kingdom,2023-05-18,-0.7673417656610112,-1.1929799079435381
+Full-Time,Unclear,Unclear,Unclear Seniority,Luxembourg,2023-06-02,-0.45812778088287404,-0.1339748068949703
+Full-Time,true,Masters,Unclear Seniority,United States,2023-04-28,1.1070992535918718,0.4379451396659124
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-03-22,-0.07582341830059793,-0.5429770020119127
+Temp,Unclear,Unclear,Unclear Seniority,Canada,2023-03-21,-0.9790369420591709,0.2631918226611983
+Full-Time,Unclear,Unclear,Senior IC,United Kingdom,2023-05-12,-0.6531176460503587,-0.491424773495522
+Unclear,true,Unclear,Senior IC,,2023-05-23,0.583791044781577,0.1440418337943477
+Full-Time,true,Bachelors,Staff IC,United States,2023-05-23,1.2884134812324766,1.8121416779302557
+Full-Time,false,Unclear,Senior IC,Romania,2023-05-10,-0.22883043576528098,-0.23533173075770453
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-19,-0.8468437669078466,-0.4996858393902903
+Unclear,Unclear,Bachelors,Unclear Seniority,China,2023-06-01,0.17060639465162128,0.021730398556230022
+Full-Time,true,Unclear,Unclear Seniority,Turkey,2023-04-28,-0.1721026260606628,-0.9953497930763887
+Full-Time,Unclear,Bachelors,Senior Manager,United States,2023-01-06,0.6940455821981663,1.176675070640386
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-05-30,-0.03814437915526171,0.9383750929066849
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-31,-0.8468437669078466,-0.896217002339169
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-02-17,-0.07582341830059793,0.7874517736753408
+Full-Time,Unclear,Bachelors,Senior IC,Canada,2023-06-01,-0.009844527454870043,0.37868787853613206
+Full-Time,false,Unclear,Unclear Seniority,United States,2023-05-22,0.14906280658454432,-0.7040677869598947
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-31,-0.8468437669078466,-0.9292612659182422
+Full-Time,Unclear,Unclear,Unclear Seniority,Latvia,2023-03-15,-0.45812778088287404,-0.8949460691245893
+Unclear,Unclear,Unclear,Senior IC,United States,2023-03-24,0.6987648905759417,6.419274580781811
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-03-01,-0.07582341830059793,-0.06725081312953399
+Full-Time,true,Bachelors,Staff IC,United States,2023-03-20,1.2884134812324766,1.5897283653788012
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-03-13,0.24397590878850628,-0.21340813280620402
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-06-01,0.24397590878850628,0.1631058320130438
+Full-Time,Unclear,Bachelors,Manager,United States,2023-04-19,0.4020596103647615,1.6111753633748345
+Unclear,Unclear,Unclear,Unclear Seniority,,2023-03-20,-0.4487213911302157,0.021730398556230022
+Full-Time,Unclear,Bachelors,Manager,United States,2023-05-03,0.4020596103647615,-0.5231981038600155
+Part-Time,Unclear,Unclear,IC,United States,2023-02-22,-0.8918829737997676,0.021730398556230022
+Full-Time,Unclear,Some High School,Unclear Seniority,United States,2023-05-31,-0.45371502158140514,-0.983911394145171
+Trainee,false,Unclear,Intern,United Kingdom,2023-05-18,-0.491307665042436,-1.2155071991719641
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-23,-0.07582341830059793,0.2613966294956044
+Full-Time,Unclear,Bachelors,Manager,Canada,2023-01-06,-0.07216144050814233,-0.566886433111194
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-05-24,0.06996487757964275,-0.1578048046683404
+Full-Time,Unclear,Unclear,IC,Austria,2023-04-19,-0.9051205937007202,-0.6979514208647296
+Full-Time,Unclear,Bachelors,Manager,United States,2023-05-04,0.4020596103647615,-0.3722747846286714
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-12,0.24397590878850628,0.6643301185129286
+Full-Time,Unclear,Bachelors,Junior IC,Luxembourg,2023-04-24,-0.6270609830206796,-0.5708580994067557
+Hourly,Unclear,Some High School,Unclear Seniority,United States,2023-04-14,-0.995020064468958,-0.0901276109919693
+Part-Time,Unclear,High School,Junior IC,Georgia,2023-04-06,-0.8319930580215502,-1.028394056655462
+Full-Time,Unclear,Bachelors,Manager,,2023-05-15,0.48885008940162794,2.4146434549669635
+Full-Time,Unclear,Unclear,Manager,United States,2023-03-30,0.12233765098215377,0.18375849674996456
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-03-24,0.06996487757964275,1.0178084188179186
+Full-Time,false,Unclear,Unclear Seniority,United Kingdom,2023-04-12,-0.945982743428135,-0.2531247957618209
+Full-Time,false,Unclear,Junior IC,United Kingdom,2023-04-24,-1.024940508876733,-1.5161146777504368
+Full-Time,Unclear,Masters,Senior IC,United States,2023-05-11,0.270123658814021,0.3029084856168151
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-23,-0.8468437669078466,-0.05454148098373659
+Part-Time,false,Unclear,Unclear Seniority,Brazil,2023-03-29,-0.46325555935942275,0.021730398556230022
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-25,-0.8468437669078466,-0.9623055294973154
+Unclear,true,Unclear,Senior IC,United States,2023-05-24,1.0675218546388578,1.049581749182412
+Unclear,Unclear,Unclear,IC,,2023-04-10,-0.2132636454495749,0.021730398556230022
+Full-Time,true,Unclear,Senior IC,,2023-06-02,0.1500360522901418,0.5809251263061331
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-23,-0.8468437669078466,-0.9457833977077789
+Hourly,Unclear,Bachelors,IC,United States,2023-05-16,-0.4815711812266264,0.36645514634580206
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-12,-0.07582341830059793,-0.9044780682339373
+Unclear,Unclear,Bachelors,Senior IC,,2023-03-16,0.48065197866740017,0.2711351552523216
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-03-21,0.4376022631939808,-0.5231981038600155
+Full-Time,Unclear,Masters,Manager,United States,2023-03-13,-0.05221553717336804,1.9725969962709478
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-04-26,0.4376022631939808,-0.09425814393935344
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-19,-0.8468437669078466,-0.8568180726871971
+Full-Time,Unclear,Doctorate,Unclear Seniority,United States,2023-02-10,0.3924380905079343,-0.2531247957618209
+Unclear,true,Unclear,Senior IC,United States,2023-04-20,1.0675218546388578,1.176675070640386
+Part-Time,Unclear,Some High School,Unclear Seniority,United States,2023-05-24,-0.9768109204882219,-1.1275268473926816
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-04-24,0.24397590878850628,0.6412944539986707
+Unclear,Unclear,Unclear,Senior IC,United States,2023-01-31,0.6987648905759417,1.025751751409042
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-04-08,0.24397590878850628,0.5809251263061331
+Full-Time,false,Unclear,Unclear Seniority,United States,2023-03-29,0.14906280658454432,0.8589417669954511
+Full-Time,Unclear,Unclear,Unclear Seniority,Germany,2023-03-24,-0.27832853569214283,0.021730398556230022
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-03-27,0.4401317614849217,1.0178084188179186
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-01-16,-0.03814437915526171,0.021730398556230022
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-26,-0.8468437669078466,-0.896217002339169
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-05-12,0.06996487757964275,0.6444717870351201
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-04-12,-0.07582341830059793,-0.9521380637806776
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-23,-0.8468437669078466,-0.9292612659182422
+Full-Time,false,Unclear,Unclear Seniority,United States,2023-05-18,0.14906280658454432,0.38234181152804886
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-12,-0.9137027807585573,-1.0156847245096645
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-03-24,0.4376022631939808,0.8589417669954511
+Full-Time,Unclear,Bachelors,IC,United States,2023-01-06,-0.05993670109270639,0.2631918226611983
+Unclear,Unclear,Unclear,Unclear Seniority,United Kingdom,2023-05-18,-0.18245599545948576,-0.5311414364511389
+Full-Time,Unclear,Unclear,IC,United States,2023-03-15,0.28533417927153853,0.2234751597055814
+Full-Time,true,Unclear,Staff IC,,2023-03-10,0.6382031013456823,1.6532750261077882
+Full-Time,Unclear,High School,Senior IC,Jamaica,2023-05-04,-0.35772824816154,-0.17369146985058714
+Intern,Unclear,Unclear,Intern,United States,2023-05-02,-0.579196344091002,-0.4996858393902903
+Unclear,Unclear,Unclear,IC,United States,2023-05-02,0.3139426851349468,-0.45170811053990517
+Full-Time,false,Unclear,Unclear Seniority,Brazil,2023-05-11,-0.3864664577436274,0.021730398556230022
+Full-Time,Unclear,Bachelors,Manager,Indonesia,2023-04-19,0.1350967890778134,0.021730398556230022
+Part-Time,Unclear,Unclear,Junior IC,United States,2023-05-25,-0.8175250397929856,-0.7614980815937167
+Unclear,Unclear,Unclear,Unclear Seniority,United Kingdom,2023-02-09,-0.18245599545948576,0.021730398556230022
+Full-Time,Unclear,Unclear,Unclear Seniority,Philippines,2023-03-16,-0.45812778088287404,-0.59881863012751
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-06-02,0.4376022631939808,-0.491424773495522
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-10,-0.07582341830059793,-0.4596037831354818
+Hourly,Unclear,Unclear,Unclear Seniority,United States,2023-01-17,-0.4526310132788235,-0.9521380637806776
+Full-Time,Unclear,Unclear,Unclear Seniority,,2023-01-04,-0.224372256775447,0.5412084633505163
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-05-26,0.4376022631939808,-0.491424773495522
+Hourly,Unclear,Some High School,Unclear Seniority,United States,2023-05-13,-0.995020064468958,-1.0396418156044926
+Full-Time,Unclear,Unclear,Manager,United States,2023-03-20,0.12233765098215377,0.46177513743928256
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-22,-0.07582341830059793,1.0575250817735353
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-03-01,0.4401317614849217,0.06460850788311398
+Unclear,Unclear,Unclear,Unclear Seniority,,2023-05-05,-0.4487213911302157,-0.7678527476666154
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-04-18,-0.07582341830059793,-0.983911394145171
+Full-Time,Unclear,Unclear,Manager,United States,2023-06-02,0.12233765098215377,1.2576970630698443
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-02-27,0.24397590878850628,0.9383750929066849
+Full-Time,false,Some High School,Unclear Seniority,United States,2023-05-18,-0.346205403056372,-1.0944825838136083
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-03-31,0.4376022631939808,0.8589417669954511
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-03-21,0.06996487757964275,0.032835177518620494
+Full-Time,Unclear,Bachelors,Junior IC,United States,2023-03-01,-0.30723990754398345,0.1440418337943477
+Unclear,Unclear,High School,Unclear Seniority,United States,2023-05-25,-0.8472021702657349,-0.7970842116019493
+Unclear,Unclear,Unclear,Senior IC,United States,2023-05-15,0.6987648905759417,0.3401309421388192
+Full-Time,false,Unclear,Chief,Brazil,2023-04-27,-0.03594115623351111,0.021730398556230022
+Temp,Unclear,Masters,Unclear Seniority,Argentina,2023-04-01,-0.7825688996253515,-1.3525614596992066
+Unclear,Unclear,Some High School,Unclear Seniority,United States,2023-04-04,-0.8567885088830446,-0.8972178622456506
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-05-25,0.4401317614849217,1.225923732705351
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-08,0.24397590878850628,-0.1895781350328339
+Full-Time,Unclear,Masters,Unclear Seniority,Austria,2023-06-02,-0.6905072200644374,-0.7297247512292232
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-22,-0.07582341830059793,-0.9680247289629242
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-04-20,0.4376022631939808,1.2561083965516198
+Full-Time,Unclear,Bachelors,Senior IC,Canada,2023-03-10,-0.009844527454870043,-1.238098037061119
+Full-Time,Unclear,High School,Junior IC,United States,2023-04-12,-0.5619653257891613,-0.9623055294973154
+Full-Time,Unclear,Masters,Unclear Seniority,United States,2023-05-31,0.336571703702325,0.021730398556230022
+Unclear,true,Unclear,Senior IC,United States,2023-01-24,1.0675218546388578,2.1203429824658424
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-04-12,-0.03814437915526171,0.46177513743928256
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-05-04,0.4376022631939808,0.013834725960653393
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-24,-0.8468437669078466,-0.9983364861306511
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-01-22,0.06996487757964275,-1.2952900317172071
+Unclear,Unclear,Bachelors,Senior IC,United States,2023-03-23,0.7305817280988962,0.6603584522173668
+Full-Time,Unclear,Masters,Manager,United States,2023-05-31,-0.05221553717336804,0.8192251040398343
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-01,-0.07582341830059793,-0.3325581216730546
+Full-Time,false,Unclear,Senior IC,United States,2023-05-25,0.576401975342714,0.6285851218528733
+Full-Time,false,Unclear,Unclear Seniority,Austria,2023-04-25,-0.784770687527643,-0.7297247512292232
+Unclear,true,Unclear,Unclear Seniority,United States,2023-03-21,0.9373660026560691,0.2234751597055814
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-04-12,-0.8468437669078466,-1.0614383202345352
+Unclear,Unclear,Unclear,Unclear Seniority,India,2023-04-20,0.054764280364189205,0.021730398556230022
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-02-21,0.853143746773787,0.10432517083873084
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-05-08,0.4401317614849217,0.2234751597055814
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-02,-0.8468437669078466,-1.0315713896919112
+Full-Time,true,Unclear,Unclear Seniority,Austria,2023-03-23,-0.5865661635511215,-0.9320255456599532
+Unclear,Unclear,Bachelors,Unclear Seniority,China,2023-04-26,0.17060639465162128,0.021730398556230022
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-02-22,0.24397590878850628,0.06460850788311398
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-04-10,-0.07582341830059793,0.09638183824760746
+Full-Time,Unclear,No Education Requirement,Unclear Seniority,United States,2023-05-04,-0.05419711514393182,-0.9441947311895542
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-01-22,-0.03814437915526171,-1.2952900317172071
+Full-Time,true,Unclear,Unclear Seniority,United States,2023-03-22,0.4191554814381107,-0.2928414587174377
+Full-Time,false,Unclear,Unclear Seniority,Romania,2023-03-30,-0.2632291327563458,-0.301420257915851
+Full-Time,Unclear,High School,Manager,United States,2023-04-04,-0.7223608559725008,0.6057400973208025
+Full-Time,Unclear,Unclear,Unclear Seniority,Russia,2023-06-02,-0.45812778088287404,-0.1339748068949703
+Full-Time,false,Bachelors,Unclear Seniority,,2023-03-27,-0.1742666291526951,-0.43359731223214387
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-05-05,0.4376022631939808,1.1360052077738343
+Full-Time,Unclear,High School,Staff IC,United States,2023-03-14,-0.00812112751645241,0.10432517083873084
+Full-Time,Unclear,Some High School,Unclear Seniority,United States,2023-01-30,-0.45371502158140514,-1.5169090110095493
+Full-Time,Unclear,Unclear,Junior IC,United States,2023-05-17,-0.498472432882485,-0.45170811053990517
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-04-28,0.853143746773787,-0.8885914030516906
+Full-Time,true,Bachelors,Senior IC,,2023-05-10,0.07483326599039256,-0.11174936230500711
+Full-Time,Unclear,Bachelors,Junior IC,Finland,2023-04-24,-0.6270609830206796,-0.5708580994067557
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-05-03,-0.03814437915526171,0.5164729256617581
+Temp,Unclear,High School,Unclear Seniority,Canada,2023-05-31,-0.9499413905111896,-1.0118719248659254
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-04-26,0.24397590878850628,-0.5231981038600155
+Full-Time,Unclear,Unclear,Senior IC,,2023-03-02,-0.021385579502514927,-0.84503016712197
+Unclear,true,Bachelors,Unclear Seniority,United States,2023-05-25,0.324531421762154,3.2419415443324624
+Full-Time,true,Unclear,Unclear Seniority,United States,2023-05-17,0.4191554814381107,-0.23326646428401243
+Unclear,Unclear,Bachelors,Unclear Seniority,,2023-04-07,0.3082159772667634,1.283115727361439
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-26,-0.8468437669078466,-1.003944478939984
+Full-Time,Unclear,Some High School,IC,,2023-03-17,-0.2503516746915556,-0.9203647334161841
+Intern,Unclear,Bachelors,Manager,United States,2023-04-19,0.21675007992313378,0.3831361447871612
+Full-Time,Unclear,Unclear,Staff IC,United States,2023-04-21,1.0323705659496922,0.8549701006998894
+Full-Time,Unclear,Some High School,Unclear Seniority,United States,2023-02-07,-0.45371502158140514,-0.837754074468501
+Part-Time,Unclear,Masters,Unclear Seniority,,2023-02-10,-0.3543414680117035,0.021730398556230022
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-05-18,0.4401317614849217,0.8494097678861031
+Temp,Unclear,High School,IC,United States,2023-03-01,-0.6748011057880027,-0.9044780682339373
+Full-Time,Unclear,Unclear,IC,United States,2023-05-30,0.28533417927153853,0.28702182043456836
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-22,-0.9137027807585573,-1.1275268473926816
+Full-Time,Unclear,Masters,Unclear Seniority,United States,2023-05-23,0.336571703702325,0.4315904735930137
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-04-20,0.4376022631939808,0.06460850788311398
+Unclear,Unclear,Doctorate,Senior IC,United States,2023-05-05,0.8363989833781389,1.113128409911399
+Part-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-26,-0.9268864555756788,-0.8301284751810225
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-06-01,-0.07582341830059793,-0.45170811053990517
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-04-25,-0.8468437669078466,-0.2531247957618209
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-30,0.24397590878850628,1.014631085781469
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-01-25,0.853143746773787,1.2370443983329236
+Full-Time,false,Unclear,Unclear Seniority,United States,2023-01-27,0.14906280658454432,0.4220584744836657
+Full-Time,Unclear,Bachelors,Senior IC,Luxembourg,2023-03-22,-0.07664413313609837,-0.491424773495522
+Unclear,Unclear,Unclear,Unclear Seniority,China,2023-06-01,0.03723447781765725,0.021730398556230022
+Contract,Unclear,Unclear,Contract,United States,2023-05-30,-0.09372841938321597,0.46360210393524093
+Full-Time,Unclear,Unclear,Unclear Seniority,Australia,2023-06-02,-0.08407016666299595,-0.1339748068949703
+Trainee,Unclear,Some High School,IC,,2023-05-03,-0.5075911611862932,-0.9044780682339373
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-05-01,0.853143746773787,-0.06725081312953399
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-02-17,0.4376022631939808,-0.2531247957618209
+Full-Time,Unclear,Unclear,IC,United States,2023-05-24,0.28533417927153853,-0.632816093617518
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-04-28,0.4401317614849217,0.7000751151729837
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-05-31,0.853143746773787,0.49354846780377604
+Full-Time,Unclear,Bachelors,Contract,United States,2023-05-15,0.6940455821981663,-1.3334180281545993
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-05-08,0.4401317614849217,0.46177513743928256
+Unclear,Unclear,Unclear,Senior IC,,2023-05-24,-0.17667986764394367,0.021730398556230022
+Contract,Unclear,Bachelors,IC,United States,2023-04-28,0.044826999527239855,0.09638183824760746
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-16,0.24397590878850628,-0.5843617648116655
+Full-Time,true,Bachelors,Unclear Seniority,United States,2023-06-01,0.09348577226159747,1.5031460401355565
+Unclear,Unclear,Bachelors,Senior IC,China,2023-04-26,0.16047060183403228,0.021730398556230022
+Full-Time,Unclear,Unclear,Unclear Seniority,Germany,2023-05-15,-0.27832853569214283,0.12815516861210094
+Full-Time,Unclear,Masters,Unclear Seniority,,2023-05-27,-0.1693565817002564,-0.5235952704895717
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-03-31,0.4401317614849217,0.10432517083873084
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-11,-0.8468437669078466,-1.1275268473926816
+Full-Time,false,Unclear,Unclear Seniority,Singapore,2023-03-10,-0.32310063920612814,0.021730398556230022
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-31,-0.8468437669078466,-0.9997980593274177
+Full-Time,Unclear,Bachelors,IC,United States,2023-05-18,-0.05993670109270639,-0.04342081535616387
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-12,-0.07582341830059793,-0.9623055294973154
+Temp,Unclear,High School,Unclear Seniority,United States,2023-05-25,-0.926563611612726,-1.0614383202345352
+Unclear,Unclear,Bachelors,Senior IC,,2023-05-10,0.48065197866740017,-0.10315467644141162
+Contract,true,Masters,Unclear Seniority,Canada,2023-04-18,0.3483871804432236,-1.5081713451593135
+Unclear,Unclear,Unclear,Unclear Seniority,,2023-05-06,-0.4487213911302157,0.5928401251928181
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-04-21,-0.07582341830059793,0.330392416382102
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-05-05,0.4376022631939808,2.0154909922630138
+Full-Time,Unclear,Unclear,IC,,2023-06-01,-0.11971341583760783,-1.520880677305111
+Full-Time,true,Bachelors,IC,United States,2023-05-31,0.15066238276157196,0.4220584744836657
+Full-Time,true,Bachelors,Chief,United States,2023-05-26,1.660447720029543,1.7803683475657621
+Full-Time,Unclear,Unclear,Unclear Seniority,India,2023-05-20,-0.22999433144176917,0.021730398556230022
+Unclear,Unclear,Unclear,Unclear Seniority,,2023-05-30,-0.4487213911302157,-0.12927235400102527
+Full-Time,Unclear,Bachelors,IC,United States,2023-05-25,-0.05993670109270639,0.2020281617095483
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-24,-0.8468437669078466,-0.9457833977077789
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-03-30,-0.03814437915526171,-0.4259717129446654
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-22,-0.8468437669078466,-1.028394056655462
+Unclear,Unclear,Bachelors,Senior IC,Mexico,2023-02-20,0.10076838871158368,0.021730398556230022
+Unclear,true,Unclear,Unclear Seniority,United States,2023-04-27,0.9373660026560691,0.06460850788311398
+Full-Time,Unclear,Unclear,Senior IC,Montserrat,2023-04-18,-0.4094178495045159,0.024891844927497124
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-30,-0.8468437669078466,-0.9953497930763887
+Full-Time,Unclear,Unclear,Senior IC,Canada,2023-05-08,-0.4576885754143632,0.38234181152804886
+Full-Time,Unclear,Unclear,Manager,United States,2023-05-11,0.12233765098215377,0.46177513743928256
+Full-Time,true,Bachelors,Unclear Seniority,,2023-04-13,0.2464566751969823,0.2234751597055814
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-12,0.24397590878850628,0.9915954212672115
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-31,-0.8468437669078466,-1.028394056655462
+Unclear,Unclear,Unclear,Unclear Seniority,United Kingdom,2023-02-08,-0.18245599545948576,-1.5161146777504368
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-03,0.24397590878850628,0.40617180930141894
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-05-25,0.4401317614849217,-0.06248481357485996
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-24,-0.8468437669078466,-0.983911394145171
+Full-Time,Unclear,Doctorate,Director,United States,2023-05-11,1.5157589791379629,0.9701484232711783
+Unclear,Unclear,Unclear,Senior IC,United Kingdom,2023-04-27,-0.7606331269234468,-1.3432677605675925
+Unclear,Unclear,Unclear,IC,Canada,2023-03-01,-0.35902607743434944,0.3346818159813086
+Full-Time,Unclear,Unclear,Unclear Seniority,Canada,2023-02-24,-0.6229697695557468,-0.3919742494546574
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-03-07,-0.8468437669078466,-0.9953497930763887
+Full-Time,Unclear,Unclear,Manager,United States,2023-03-14,0.12233765098215377,1.0114537527450198
+Full-Time,true,Bachelors,Unclear Seniority,United States,2023-06-02,0.09348577226159747,0.342625148572432
+Full-Time,false,Unclear,Unclear Seniority,Austria,2023-05-03,-0.784770687527643,-0.8758820709058932
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-18,-0.9137027807585573,-0.9953497930763887
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-03-06,0.4376022631939808,1.0178084188179186
+Unclear,Unclear,Bachelors,Senior IC,China,2023-05-25,0.16047060183403228,0.021730398556230022
+Unclear,Unclear,Unclear,Unclear Seniority,China,2023-02-06,0.03723447781765725,0.021730398556230022
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-22,-0.8468437669078466,-0.8631727387600958
+Full-Time,Unclear,Unclear,Manager,United States,2023-03-29,0.12233765098215377,-1.028394056655462
+Unclear,Unclear,Unclear,Manager,United States,2023-03-15,0.9806524040689837,0.021730398556230022
+Unclear,true,Unclear,Senior IC,United States,2023-03-24,1.0675218546388578,0.7795084410842174
+Full-Time,Unclear,Bachelors,Manager,United States,2023-05-31,0.4020596103647615,1.0178084188179186
+Unclear,Unclear,Bachelors,Senior IC,United States,2023-06-01,0.7305817280988962,1.4753443760666247
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-04-28,0.24397590878850628,-0.2600037217857337
+Full-Time,false,Unclear,Unclear Seniority,United Kingdom,2023-05-03,-0.945982743428135,-1.5161146777504368
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-05-12,0.06996487757964275,-0.4996858393902903
+Full-Time,true,Unclear,Manager,,2023-04-24,0.7189162646882856,0.6603584522173668
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-03-30,-0.07582341830059793,0.032835177518620494
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-26,-0.8468437669078466,-1.028394056655462
+Full-Time,Unclear,Doctorate,Staff IC,United States,2023-04-06,1.4577801829096468,0.8128704379669356
+Intern,Unclear,Unclear,Intern,United States,2023-02-01,-0.579196344091002,-0.9737439284285331
+Unclear,true,Unclear,Senior IC,Canada,2023-04-07,0.4536940802568741,0.021730398556230022
+Full-Time,false,Unclear,Unclear Seniority,Portugal,2023-04-19,-0.32310063920612814,0.021730398556230022
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-05-31,0.4401317614849217,-0.45170811053990517
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-17,-0.9137027807585573,-0.9623055294973154
+Full-Time,true,Unclear,Senior IC,United States,2023-05-12,0.9183892236139644,0.5968117914883798
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-05-09,0.4376022631939808,0.8589417669954511
+Contract,false,Unclear,Unclear Seniority,United States,2023-04-03,0.2336477245422761,0.342625148572432
+Unclear,Unclear,Unclear,Unclear Seniority,,2023-04-13,-0.4487213911302157,-0.491424773495522
+Part-Time,Unclear,Bachelors,Senior IC,United Kingdom,2023-05-10,-0.5856390518174697,0.19170182934108793
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-03-28,0.853143746773787,0.8716510991412485
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-04-18,-0.03814437915526171,1.3832017180095937
+Unclear,Unclear,Bachelors,Manager,India,2023-05-05,-0.003821964609808116,0.021730398556230022
+Intern,true,Doctorate,Intern,United States,2023-03-28,0.06752163634830224,-0.45011944402168047
+Full-Time,Unclear,Unclear,Unclear Seniority,India,2023-03-19,-0.22999433144176917,0.021730398556230022
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-05-18,0.4401317614849217,0.1440418337943477
+Full-Time,false,Unclear,IC,United States,2023-04-12,0.3982424474783127,-0.43359731223214387
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-04-27,0.24397590878850628,-0.4119914475842883
+Contract,Unclear,Unclear,Unclear Seniority,United States,2023-01-12,-0.13818938905783557,-0.45011944402168047
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-15,-0.07582341830059793,0.024891844927497124
+Full-Time,Unclear,Doctorate,Unclear Seniority,United States,2023-05-23,0.3924380905079343,0.2552484900700749
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-04-25,0.24397590878850628,-0.4119914475842883
+Full-Time,true,Unclear,Staff IC,United States,2023-04-21,1.38257151477102,2.7017949281360734
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-16,0.24397590878850628,1.3117117246894834
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-30,-0.8468437669078466,-1.0156847245096645
+Full-Time,Unclear,Bachelors,Manager,United States,2023-05-22,0.4020596103647615,1.8576728603425747
+Unclear,Unclear,Bachelors,IC,United States,2023-01-22,-0.16758737617286013,-1.2952900317172071
+Full-Time,true,Bachelors,IC,,2023-03-24,-0.005632976793372121,0.05466345547902752
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-10,-0.07582341830059793,1.1687317380492626
+Full-Time,true,Unclear,Senior IC,United States,2023-04-28,0.9183892236139644,1.7803683475657621
+Full-Time,Unclear,Doctorate,Manager,United States,2023-05-09,0.6624072536978395,-0.35479945292820003
+Full-Time,Unclear,Unclear,Staff IC,United States,2023-05-02,1.0323705659496922,-1.047458054874158
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-02-07,0.4401317614849217,1.2958250595072365
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-04-12,0.24397590878850628,1.8518583408858724
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-08,-0.07582341830059793,-0.008406605294492048
+Unclear,true,Bachelors,Senior IC,United States,2023-05-02,0.9295299343711564,0.021730398556230022
+Temp,false,High School,Staff IC,United States,2023-03-23,-0.41757642913582993,-0.8885914030516906
+Unclear,Unclear,Bachelors,Manager,,2023-03-10,0.7043758907616435,-0.4119914475842883
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-05-16,0.853143746773787,1.4308617135563337
+Unclear,Unclear,Bachelors,Senior IC,United States,2023-04-24,0.7305817280988962,-1.3476365934927101
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-04-26,0.24397590878850628,0.46177513743928256
+Unclear,Unclear,Vocational,IC,United States,2023-05-12,-0.12947449021681598,-0.4831637076007537
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-03-29,0.24397590878850628,0.2711351552523216
+Full-Time,Unclear,Unclear,Junior IC,United States,2023-05-25,-0.498472432882485,-0.45170811053990517
+Full-Time,Unclear,Unclear,Unclear Seniority,United Kingdom,2023-05-26,-0.8197955388977547,-1.1268913807853917
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-03-14,-0.07582341830059793,0.021730398556230022
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-03-30,-0.07582341830059793,-0.7637222147192312
+Unclear,Unclear,Bachelors,Unclear Seniority,India,2023-05-17,0.14811705673237047,0.021730398556230022
+Full-Time,Unclear,Unclear,Unclear Seniority,Germany,2023-03-31,-0.27832853569214283,0.021730398556230022
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-04-13,0.24397590878850628,-0.3325581216730546
+Full-Time,Unclear,Some High School,IC,United States,2023-06-01,-0.5150916296583169,-0.06725081312953399
+Unclear,Unclear,Bachelors,IC,Serbia,2023-05-18,-0.3205244159999656,-1.5161146777504368
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-06-02,0.4401317614849217,1.4030600494874021
+Full-Time,Unclear,Unclear,Manager,United States,2023-06-01,0.12233765098215377,-1.15021300527293
+Unclear,Unclear,Unclear,Unclear Seniority,,2023-04-27,-0.4487213911302157,-0.7640399480228761
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-09,0.24397590878850628,-0.12603147430384692
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-25,-0.8468437669078466,-0.9953497930763887
+Full-Time,Unclear,Unclear,Junior IC,United States,2023-05-25,-0.498472432882485,-0.45170811053990517
+Full-Time,Unclear,Bachelors,Director,United States,2023-05-26,1.4331292210352213,0.4553410380404726
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-31,-0.8468437669078466,-1.1666080437410085
+Full-Time,true,Bachelors,Staff IC,United States,2023-05-18,1.2884134812324766,0.8152534377442726
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-05-16,0.24397590878850628,-0.26901146094406764
+Full-Time,Unclear,Bachelors,Manager,United States,2023-05-22,0.4020596103647615,0.38234181152804886
+Full-Time,Unclear,Bachelors,Manager,United States,2023-05-10,0.4020596103647615,1.1480790733123418
+Hourly,Unclear,High School,Unclear Seniority,United States,2023-06-01,-0.8100531381104706,-1.1427780459676384
+Unclear,Unclear,Bachelors,Unclear Seniority,Greece,2023-02-20,0.139100689950931,0.021730398556230022
+Unclear,Unclear,High School,Unclear Seniority,,2023-05-18,-0.7491937894082245,-0.812128883529537
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-03-18,-0.07582341830059793,-0.33414678819127924
+Full-Time,Unclear,Unclear,IC,United States,2023-05-03,0.28533417927153853,0.46177513743928256
+Full-Time,Unclear,Unclear,Manager,India,2023-05-16,-0.00368253336406508,0.021730398556230022
+Full-Time,true,Unclear,Unclear Seniority,Brazil,2023-05-16,-0.15982437673630354,0.09638183824760746
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-03,-0.07582341830059793,-0.4119914475842883
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-03-23,0.24397590878850628,-0.2022874671786313
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-31,-0.8468437669078466,-0.983911394145171
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-05-25,0.853143746773787,0.2711351552523216
+Unclear,Unclear,Unclear,Staff IC,United Kingdom,2023-01-11,-0.4495867865426166,0.21156016081889634
+Unclear,Unclear,Unclear,Unclear Seniority,United Kingdom,2023-05-17,-0.18245599545948576,-0.6502914253179894
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-05-08,0.4401317614849217,-0.5708580994067557
+Full-Time,true,Bachelors,Staff IC,United States,2023-05-25,1.2884134812324766,0.18375849674996456
+Full-Time,false,Unclear,Senior IC,United States,2023-02-15,0.576401975342714,0.8937335637445715
+Full-Time,Unclear,Bachelors,Manager,United States,2023-01-13,0.4020596103647615,-0.1339748068949703
+Full-Time,Unclear,Bachelors,Director,United States,2023-04-12,1.4331292210352213,2.1648256449761334
+Unclear,true,Bachelors,IC,United States,2023-05-22,0.2952796786328985,-0.6105747623623726
+Full-Time,false,Bachelors,Senior IC,Singapore,2023-02-03,-0.34505824820563746,-0.3802181172197948
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-30,-0.9137027807585573,-1.1275268473926816
+Full-Time,false,Bachelors,Unclear Seniority,Singapore,2023-05-11,-0.306708592756524,-0.7614980815937167
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-05-31,0.4376022631939808,0.6603584522173668
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-17,-0.8468437669078466,-0.9127391341287057
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-05-18,-0.8468437669078466,-0.9457833977077789
+Full-Time,true,Unclear,Senior IC,United States,2023-05-15,0.9183892236139644,-0.26901146094406764
+Full-Time,true,Bachelors,IC,United States,2023-04-26,0.15066238276157196,1.176675070640386
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-04-28,-0.07582341830059793,-0.43359731223214387
+Full-Time,Unclear,Bachelors,Manager,United States,2023-05-10,0.4020596103647615,0.7795084410842174
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-04-21,-0.03814437915526171,-0.1339748068949703
+Full-Time,Unclear,High School,Unclear Seniority,United States,2023-02-14,-0.8468437669078466,-0.9623055294973154
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-05-16,0.4401317614849217,0.3029084856168151
+Unclear,Unclear,Unclear,Unclear Seniority,United States,2023-06-02,0.06996487757964275,-0.3722747846286714
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-04-20,0.4401317614849217,0.38234181152804886
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-16,-0.07582341830059793,-1.2142680392877487
+Part-Time,Unclear,High School,Unclear Seniority,United States,2023-05-22,-0.9137027807585573,-1.028394056655462
+Full-Time,Unclear,Unclear,Junior IC,United States,2023-05-25,-0.498472432882485,-0.45170811053990517
+Unclear,Unclear,Bachelors,Unclear Seniority,United States,2023-02-15,-0.03814437915526171,-0.17369146985058714
+Full-Time,Unclear,Bachelors,Staff IC,United States,2023-04-19,0.853143746773787,0.2759011548069957
+Full-Time,Unclear,Unclear,Unclear Seniority,United States,2023-01-03,-0.07582341830059793,1.7803683475657621
+Full-Time,Unclear,Bachelors,Manager,United States,2023-04-11,0.4020596103647615,0.8716510991412485
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-04-28,0.24397590878850628,-0.5708580994067557
+Full-Time,Unclear,Bachelors,Unclear Seniority,United States,2023-04-10,0.24397590878850628,0.2552484900700749
+Full-Time,Unclear,Unclear,Junior IC,United States,2023-04-27,-0.498472432882485,-0.1578048046683404
+Full-Time,Unclear,Unclear,IC,United States,2023-04-19,0.28533417927153853,1.5658983676054312
+Part-Time,Unclear,Unclear,Unclear Seniority,United States,2023-05-15,-0.9268864555756788,-0.5327301029693635
+Full-Time,Unclear,Masters,Staff IC,United States,2023-05-16,0.9266810686788417,0.9955670875627731
+Full-Time,Unclear,Masters,Unclear Seniority,,2023-01-20,-0.1693565817002564,-0.6649071572856564
+Full-Time,Unclear,Unclear,Senior IC,United States,2023-04-24,0.4376022631939808,-0.491424773495522
+Full-Time,Unclear,Bachelors,Senior IC,United States,2023-03-21,0.4401317614849217,0.8589417669954511
+Unclear,Unclear,Unclear,Senior IC,United States,2023-03-20,0.6987648905759417,1.1607884054581392
+Full-Time,true,Unclear,Unclear Seniority,United States,2023-05-18,0.4191554814381107,0.6746564508813889
+Full-Time,Unclear,Bachelors,Senior IC,Australia,2023-05-10,0.20551090820397283,0.3029084856168151
